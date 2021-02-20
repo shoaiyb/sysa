@@ -8,7 +8,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/images/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/favicon-16x16.png">
-<link rel="manifest" href="{{ site.baseurl }}/assets/images/site.webmanifest">
+<link rel="manifest" href="{{ site.baseurl }}/site.webmanifest">
 <link rel="icon" type="image/svg+xml" href="{{ site.baseurl }}/assets/images/logo.svg">
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
     
@@ -51,12 +51,12 @@ ga('send', 'pageview');
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <h3>Navigation</h3>
+        <h3>Menu</h3>
         <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="https://demo.flatbum.ga/">Demo</a></li>
-        <li><a href="https://dev.flatbum.ga/">Dev</a></li>
-        <li><a href="https://forum.flatbum.ga/">Support</a>
-        <li><a href="https://www.flatbum.ga/">Download</a></li>       
+        <li><a href="https://sysa.ml/about/">About</a></li>
+        <li><a href="https://sysa.ml/help/">Help</a></li>
+        <li><a href="https://sysa.ml/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="https://sysa.ml/terms-and-conditions/">Terms & Conditions</a></li>       
     </ul>   
 </nav>
 
@@ -96,7 +96,7 @@ ga('send', 'pageview');
     <!-- Newsletter
     ================================================== -->
     <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a new <b>release</b>, subscribe to our newsletter</span>
+        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a new <b>post</b>, subscribe to my newsletter</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group d-inline-flex">
             <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
@@ -114,7 +114,7 @@ ga('send', 'pageview');
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-12 text-center text-lg-left">
-                © copyright {{ site.time | date: "%Y" }} | shoaiyb sysa 
+                © copyright {{ site.time | date: "%Y" }} | <a href="{{ site.baseurl }}">shoaiyb sysa</a>
             </div>
         </div>
     </div>
