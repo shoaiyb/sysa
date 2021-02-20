@@ -1,16 +1,16 @@
 # Site
-name: "Flatbum"
-title: "Flatbum Gallery CMS"
-description: "Flatbum is an Open Source CMS which makes it simpler and easier for you to create your own self hosted Albums & Galleries with few clicks, And no database is needed."
+name: "sysa"
+title: "shoaiyb sysa"
+description: "Get free blogging tips & tricks."
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon-32×32.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'flatbum'
+disqus: 'shoaiyb'
 mailchimp-list: 'https://mailto:support@flatbum.ga'
 include: ["_pages"]
 permalink: /:title/
-email: support@flatbum.ga
+email: contact@sysa.ml
 
 # Authors
 authors:
@@ -18,10 +18,10 @@ authors:
     name: shoaiyb sysa
     display_name: sysa
     gravatar: 9b70db5a5cdfd531438f63ff4cae215a
-    email: contact@shoaiybsysa.ga
-    web: about/
-    twitter: #
-    description: "I'm addicted to web developing"
+    email: contact@sysa.ml
+    web: https://sysa.ml/about/
+    instagram: https://instagram.com/sysa_shoaiyb
+    description: "I'm shoaiyb sysa part time blogger and a youtuber, I'm self taught backend and frontend developer, I'm here just to welcome and help those newbies on how they're going to get started in this online world."
  # john:
   #  name: John
   #  display_name: John    
@@ -81,4 +81,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [LICENSE, Gemfile, Gemfile.lock]
