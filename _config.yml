@@ -11,6 +11,7 @@ mailchimp-list: 'https://mailto:support@flatbum.ga'
 include: ["_pages"]
 permalink: /:title/
 email: contact@sysa.ml
+formspree: xknpaeab
 
 # Authors
 authors:
