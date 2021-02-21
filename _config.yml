@@ -1,7 +1,7 @@
 # Site
 name: "shoaiyb sysa"
 title: "shoaiyb sysa"
-description: "Get free blogging tips & tricks."
+description: "Get free blogging and youtubing tips & tricks."
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/apple-touch-icon.png'
 baseurl: /
@@ -21,7 +21,7 @@ authors:
     email: contact@sysa.ml
     web: https://sysa.ml/about/
     twitter: https://twitter.com/shoaiybsysa
-    description: "I'm shoaiyb sysa part time blogger and a youtuber, I'm self taught backend and frontend developer, I'm here just to welcome and help those newbies on how they're going to get started in this online world."
+    description: "I'm shoaiyb sysa part time developer, blogger and a youtuber, I'm self taught backend and frontend developer, I'm here just to welcome and help those newbies on how they're going to get started in this online world."
  # john:
   #  name: John
   #  display_name: John    
