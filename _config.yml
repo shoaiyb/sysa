@@ -5,7 +5,7 @@ description: "Get free blogging ideas, tips & tricks, And learn how to develop s
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/apple-touch-icon.png'
 baseurl: /
-google_analytics: 'G-GHYNS9X09N'
+google_analytics: 'UA-187607202-1'
 disqus: 'shoaiyb'
 mailchimp-list: 'https://sysa.us1.list-manage.com/subscribe/post?u=470d027d272e559f32772d979&amp;id=f08439ffdc'
 include: ["_pages"]
