@@ -57,6 +57,17 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
     
+    
+# Admin
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
+    
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
