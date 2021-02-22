@@ -7,7 +7,7 @@ favicon: 'assets/images/apple-touch-icon.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'shoaiyb'
-mailchimp-list: 'https://mailto:support@flatbum.ga'
+mailchimp-list: 'https://sysa.us1.list-manage.com/subscribe/post?u=470d027d272e559f32772d979&amp;id=f08439ffdc'
 include: ["_pages"]
 permalink: /:title/
 email: contact@sysa.ml
