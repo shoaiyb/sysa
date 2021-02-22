@@ -47,11 +47,10 @@ plugins:
     
 # Archives
 jekyll-archives:
-  enabled:
-    - categories
+  enabled: []
+   # - categories
   layout: archive
   permalinks:
-    permalinks:
     year: '/:year/'
     month: '/:year/:month/'
     day: '/:year/:month/:day/'
