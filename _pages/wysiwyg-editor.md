@@ -12,15 +12,6 @@ comments: false
 
 
 <style>
-body {
-  margin: 0;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: 'Helvetica Neue', 'Helvetica', arial, sans-serif;
-}
-
 /* WYSIWYG Editor */
 .editor {
   width: 40rem;
@@ -32,19 +23,15 @@ body {
   
   .toolbar {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-    
     .line {
       display: flex;
-      border-bottom: 1px solid #e2e2e2;
-      
+      border-bottom: 1px solid #e2e2e2; 
       &:last-child {
         border-bottom: none;
-      }
-      
+      } 
       .box {
         display: flex;
-        border-left: 1px solid #e2e2e2; 
-        
+        border-left: 1px solid #e2e2e2;  
         .btn {
           display: block;
           display: flex;
@@ -52,25 +39,20 @@ body {
           justify-content: center;
           position: relative;
           transition: .2s ease all;
-
           &:hover, &.active {
             background-color: #e1e1e1;
             cursor: pointer;
           }
-          
           &.icon img {
             width: 15px;
             padding: 10px;
           }
-          
           &.icon.smaller img {
             width: 12px;
           }
-          
           &.has-submenu {
             width: 20px;
-            padding: 0 10px;
-            
+            padding: 0 10px;  
             &::after {
               content: '';
               width: 6px;
@@ -82,7 +64,6 @@ body {
               background-position: center;
               right: 4px;
             }
-            
             .submenu {
               display: none;
               position: absolute;
@@ -92,16 +73,13 @@ body {
               background-color: #FFF;
               border: 1px solid #b5b5b5;
               border-top: none;
-              
               .btn {
                 width: 39px;
               }
-              
               &:hover {
                 display: block;
               }
-            }
-            
+            } 
             &:hover .submenu {
               display: block;
             }
@@ -114,15 +92,10 @@ body {
   .content-area {
     padding: 15px 12px;
     line-height: 1.5;
-    
     .visuell-view {
       outline: none;
-      
-      p {
-        margin: 12px 0;
       } 
     }
-    
     .html-view {
       outline: none;
       display: none;
@@ -150,27 +123,21 @@ body {
     width: 20rem;
     min-height: 10rem;
     z-index: 41;
-    
     .modal-content {
       display: none;
       flex-direction: column;
-      
       h3 {
         margin-top: 0;
-      }
-        
+      }  
       input {
         margin: 1rem 0;
         padding: .5rem;
       }
-      
-      .row {
-        
+      .row {  
         label {
           margin-left: .5rem;
         }
       }
-      
       button {
         background-color: #D2434F;
         border: 0;
@@ -191,28 +158,10 @@ body {
   }
 }
 
-/* Codepen Footer */
-footer {
-  position: fixed;
-  bottom: 0;
-  display: flex;
-  
-  p {
-    margin: 0.5rem 1rem;
-    font-size: 12px;
-  }
-  
-  a {
-    text-decoration: none;
-    font-weight: bold;
-    color: #000;
-  }
-}
 </style>
 <div class="editor">
   <div class="toolbar">
     <div class="line">
-      
       <div class="box">
         <span class="btn icon smaller" data-action="bold" title="Bold">
           <img src="https://image.flaticon.com/icons/svg/25/25432.svg">
@@ -227,7 +176,6 @@ footer {
           <img src="https://image.flaticon.com/icons/svg/25/25626.svg">
         </span>
       </div>
-      
       <div class="box">
         <span class="btn icon has-submenu">
           <img src="https://image.flaticon.com/icons/svg/25/25351.svg">
@@ -258,17 +206,14 @@ footer {
         <span class="btn icon" data-action="indent" title="Indent">
           <img src="https://image.flaticon.com/icons/svg/25/25233.svg">  
         </span>
-        
       </div>
       <div class="box">
         <span class="btn icon" data-action="insertHorizontalRule" title="Insert horizontal rule">
           <img src="https://image.flaticon.com/icons/svg/25/25232.svg">  
         </span>
       </div>
-      
     </div>
     <div class="line">
-      
       <div class="box">
         <span class="btn icon smaller" data-action="undo" title="Undo">
           <img src="https://image.flaticon.com/icons/svg/25/25249.svg">
@@ -277,7 +222,6 @@ footer {
           <img src="https://image.flaticon.com/icons/svg/25/25454.svg">  
         </span>
       </div>
-      
       <div class="box">
         <span class="btn icon smaller" data-action="createLink" title="Insert Link">
           <img src="https://image.flaticon.com/icons/svg/25/25385.svg">
@@ -286,13 +230,11 @@ footer {
           <img src="https://image.flaticon.com/icons/svg/25/25341.svg">
         </span>
       </div>
-      
       <div class="box">
         <span class="btn icon" data-action="code" title="Show HTML-Code">
           <img src="https://image.flaticon.com/icons/svg/25/25185.svg">
         </span>
       </div>
-      
     </div>
   </div>
   <div class="content-area">
@@ -337,7 +279,6 @@ for(let i = 0; i < buttons.length; i++) {
   
   button.addEventListener('click', function(e) {
     let action = this.dataset.action;
-    
     switch(action) {
       case 'code':
         execCodeAction(this, editor);
@@ -361,13 +302,11 @@ function execCodeAction(button, editor) {
     visuellView.innerHTML = htmlView.value;
     htmlView.style.display = 'none';
     visuellView.style.display = 'block';
-
     button.classList.remove('active');     
   } else {  // show html view
     htmlView.innerText = visuellView.innerHTML;
     visuellView.style.display = 'none';
     htmlView.style.display = 'block';
-
     button.classList.add('active'); 
   }
 }
