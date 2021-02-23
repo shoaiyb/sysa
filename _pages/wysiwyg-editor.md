@@ -14,23 +14,6 @@ comments: false
 
 <link href='https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css' rel='stylesheet' type='text/css'> 
 <link href='https://fonts.googleapis.com/css?family=Euphoria+Script' rel='stylesheet' type='text/css'>
-<style>
-  #editor {
-  resize:vertical;
-  overflow:auto;
-  border:1px solid silver;
-  border-radius:5px;
-  min-height:100px;
-  box-shadow: inset 0 0 10px silver;
-  padding:1em;
-  background: white;
-  margin: 0 auto;
-  width: 90%;
-  }
-  .content {
-  margin: 50px auto 0;
-}
-</style>
 <body>
   <div class="content">
      <h1 id="head">Simple wysiwyg editor</h1>
