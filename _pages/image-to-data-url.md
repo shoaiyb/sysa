@@ -54,7 +54,7 @@ textarea.code_textarea{white-space:inherit;overflow:inherit}
 <form id="rst" name="rst">
 <div class="bl_bx">
 <div class="bl_bxhd">
-<div class="bl_bxhl">1</div>
+<div class="bl_bxhl"></div>
 <div class="bl_bxhc">
 <h2>Upload Image</h2>
 <a href="#" class="bx_min icn twe_icn i-min"></a>
@@ -62,7 +62,7 @@ textarea.code_textarea{white-space:inherit;overflow:inherit}
 <div class="bl_bxhr"><div class="loading-hcg sgif"></div></div>
 </div>
 <div class="bc_bxbd">
-<div class="up-imgs">Upload Image: <input name="image" type="file" class="image" id="choose" accept="image/*"><div id="ldimg" style="display: none;">Loading...</div></div>
+<div class="up-imgs">Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*"><div id="ldimg" style="display: none;">Loading...</div></div>
 <div class="m-div">
 <div id="img-ld-dv"></div>
 </div>
@@ -80,7 +80,7 @@ textarea.code_textarea{white-space:inherit;overflow:inherit}
 </div>
 </div>
 <div class="code-box-cnt">
-<textarea class="code_textarea" id="code_html" aria-label="HTML code"></textarea>
+<textarea class="form-control mb3" id="code_html" aria-label="HTML code"></textarea>
 <button class="code_selectall" data-id="code_html" type="button">select all</button>
 </div>
 </div>
@@ -92,7 +92,7 @@ textarea.code_textarea{white-space:inherit;overflow:inherit}
 <a href="#" class="copy_code" data-target="code_url" data-id="link" title="copy code"><i class="fa fa-copy"></i></a>
 </div></div>
 <div class="code-box-cnt">
-<textarea class="code_textarea" id="code_url" aria-label="HTML code"></textarea>
+<textarea class="form-control mb3" id="code_url" aria-label="HTML code"></textarea>
 <button class="code_selectall" data-id="code_url" type="button">select all</button>
 </div>
 </div>
