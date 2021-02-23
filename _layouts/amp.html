@@ -70,9 +70,12 @@
 <div>
 <amp-img class="zb jc amp-wp-enforced-sizes" src="https://www.gravatar.com/avatar/811ff8ad49ea8211408f775e1d941851?s=250&amp;d=mm&amp;r=x" alt="sysa" width="50" height="50" layout="fixed"><noscript><img class="zb jc" src="https://www.gravatar.com/avatar/811ff8ad49ea8211408f775e1d941851?s=250&amp;d=mm&amp;r=x" alt="sysa" width="50" height="50"></noscript></amp-img></div>
 <div>
-Written by <a target="_blank" class="fb" href="https://sysa.ml/about/" rel="noopener noreferrer">sysa</a> on
-<span class=""><time class="" datetime="2021-02-21">21 Feb 2021</time></span>
-</div>
+        Written by <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> on 
+        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+        {% if page.last_modified_at %}
+        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+        {% endif %}
+        </div>
 </div>
 </div>
 
