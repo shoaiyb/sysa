@@ -8,6 +8,38 @@ comments: false
 ---
 
 
+<style>
+.sgif{background-image:url(data:image/gif;base64,R0lGODlhEAALALMMAOXp8a2503CHtOrt9L3G2+Dl7vL0+J6sy4yew1Jvp/T2+e/y9v///wAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQFCwAMACwAAAAAEAALAAAEK5DJSau91KxlpObepinKIi2kyaAlq7pnCq9p3NZ0aW/47H4dBjAEwhiPlAgAIfkECQsADAAsAAAAAAQACwAABA9QpCQRmhbflPnu4HdJVAQAIfkECQsADAAsAAAAABAACwAABDKQySlSEnOGc4JMCJJk0kEQxxeOpImqIsm4KQPG7VnfbEbDvcnPtpINebJNByiTVS6yCAAh+QQJCwAMACwAAAAAEAALAAAEPpDJSaVISVQWzglSgiAJUBSAdBDEEY5JMQyFyrqMSMq03b67WY2x+uVgvGERp4sJfUyYCQUFJjadj3WzuWQiACH5BAkLAAwALAAAAAAQAAsAAAQ9kMlJq73hnGDWMhJQFIB0EMSxKMoiFcNQmKjKugws0+navrEZ49S7AXfDmg+nExIPnU9oVEqmLpXMBouNAAAh+QQFCwAMACwAAAAAEAALAAAEM5DJSau91KxlpOYSUBTAoiiLZKJSMQzFmjJy+8bnXDMuvO89HIuWs8E+HQYyNAJgntBKBAAh+QQFFAAMACwMAAIABAAHAAAEDNCsJZWaFt+V+ZVUBAA7);background-repeat:no-repeat}
+.loading-hcg{width:20px;height:10px;display:inline-block;background-position:50% 50%}
+.bl_bx{border:2px #076591 solid;border-top:0;margin-bottom:50px;box-shadow:0 20px 50px -25px rgba(0,0,0,0.81);border-top-left-radius:5px;border-top-right-radius:5px}
+.bl_bxhd{position:relative;color:#FFF;text-align:center;box-shadow:inset 0 1px 1px 0 rgba(255,255,255,0.77);border-top:solid 1px #0C5870;border-bottom:solid 1px #045074;background:linear-gradient(to bottom,#067DB4,#09638F);background-color:#0F73A2;border-top-left-radius:5px;border-top-right-radius:5px;display:flex;justify-content:space-between;align-items:center}
+.bl_bxhl{font-size:14px;display:inline-block;width:40px;padding:8px 0;border-right:solid 1px #035277;margin-left:1px;margin-top:1px;box-shadow:1px 0 0 0 rgba(255,255,255,0.34);background-color:#0F73A2;border-top-left-radius:4px;flex:0 0 40px;min-height:34px}
+.bl_bxhc{flex:1 1 auto}
+.bl_bxhr{display:inline-block;width:40px;padding:8px 0;margin-right:1px;margin-top:1px;background:#0F73A2;border-top-right-radius:4px;border-left:solid 1px #035277;box-shadow:-1px 0 0 0 rgba(255,255,255,0.34);flex:0 0 40px;min-height:37px}
+.bc_bxbd{background-color:#ECECEC;position:relative;padding:20px}
+.bl_bx.fcsbx{border-color:#098F59}
+.fcsbx .bl_bxhd{background:linear-gradient(to bottom,#0CC070,#098F59);background-color:#0A9E5D;border-bottom:solid 1px #0C7031;border-top:solid 1px #219C4D}
+.fcsbx .bl_bxhl{border-right:solid 1px #0A8335;background:#0A9E5D}
+.fcsbx .bl_bxhr{border-left:solid 1px #0A8335;background:#0A9E5D}
+.fcsbx .bc_bxbd{background-color:#FFFFC8}
+a.bx_min{display:inline-block;position:absolute;top:10px;right:50px}
+.i-min{background-position:-330px -29px}
+.i-pls{background-position:-310px -31px}
+.bl_bx.dsbbx{margin-bottom:5px;border-color:#888D8F}
+.dsbbx .bl_bxhd{background:linear-gradient(to bottom,#ADB1B3,#888D8F);background-color:#888D8F;border-top:solid 1px #646C6E;border-bottom:solid 1px #6F7273}
+.dsbbx .bl_bxhl{border-right:solid 1px #737475;background-color:#949da1}
+.dsbbx .bl_bxhr{border-left:solid 1px #737475;background-color:#949da1}
+.bc_bxbd{background-color:#ffffff}
+h2{margin:0;font-size:15px;font-weight:normal}	
+div#wfi_inptc img{max-width:100%;max-height:100%;display:inline-block}
+.div-col{padding:20px}
+div#wfi_inptc{max-width:100%;overflow:auto}
+.imgs-size-jq{text-align:left;line-height:25px;font-size:14px}
+textarea.code_textarea{white-space:inherit;overflow:inherit}
+.opt_btns{background-color:#f9f9f9;padding:10px;margin-bottom:50px;text-align:center}
+.bc_bxbd {text-align: center}
+.code-box-hed {padding-right: 8px;}
+</style>
 <h1 class="h-text">Image To Data URI Convertor</h1>
 <div class="chr-div-btn"></div>
 <p class="hp-text">Image To Data URI Convertor. upload image convert data URI</p>
