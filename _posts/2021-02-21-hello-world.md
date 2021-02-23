@@ -5,6 +5,7 @@ permalink: /hello-world/amp/
 author: shoaiyb
 image: assets/images/logo.svg
 toc: true
+published: false
 ---
 
 #### Hello World!
