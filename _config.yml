@@ -48,7 +48,6 @@ plugins:
 # Archives
 jekyll-archives:
   enabled: []
-   # - categories
   layout: archive
   permalinks:
     year: '/:year/'
@@ -59,18 +58,18 @@ jekyll-archives:
     
     
 # Admin
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
+# jekyll_admin:
+# hidden_links:
+#   - posts
+#   - pages
+#   - staticfiles
+#   - datafiles
+#   - configuration
+# homepage: "pages"
     
 # Pagination 
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /page/:num/
     
 # Other
 highlighter: none
