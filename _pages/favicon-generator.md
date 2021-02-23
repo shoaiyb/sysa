@@ -13,8 +13,106 @@ comments: false
 
 
 
-Quickly generate your favicon from text by selecting the text, fonts, and colors. Download your favicon in the most up to date formats.</p></div><div class="column is-4"><div class="is-pulled-right"><ins data-ad-client="ca-pub-6364731787646900" data-ad-slot="8415939935" class="adsbygoogle" style="display:inline-block;width:300px;height:250px;"></ins></div></div></div></div></div></section><nav id="navbar-sticky" role="navigation" aria-label="main navigation" class="navbar navbar-secondary has-shadow is-spaced" data-v-3094c233><div class="container" data-v-3094c233><div class="navbar-brand" data-v-3094c233><div href="https://bulma.io" class="navbar-item" data-v-3094c233><strong data-v-3094c233>Preview</strong><img id="preview-48x48" alt="Favicon of Preview 48x48" src="/assets/static/48x48.813b813.c2822fa3d9ef25a65543ba9409e52e89.png" width="40" srcset="/assets/static/48x48.813b813.c2822fa3d9ef25a65543ba9409e52e89.png 40w" sizes="(max-width: 40px) 100vw, 40px" class="is-hidden-mobile g-image" style="width:48px;margin-left:0.75rem;" data-v-3094c233><img id="preview-32x32" alt="Favicon of Preview 32x32" src="/assets/static/32x32.813b813.bb6f56dffa361fb0b235d35b62452db5.png" width="40" srcset="/assets/static/32x32.813b813.bb6f56dffa361fb0b235d35b62452db5.png 40w" sizes="(max-width: 40px) 100vw, 40px" class="is-hidden-mobile g-image" style="width:32px;margin-left:0.75rem;" data-v-3094c233><img id="preview-16x16" alt="Favicon of Preview 16x16" src="/assets/static/16x16.813b813.5c0d295e2144ef4e8341256bad6591cd.png" width="40" srcset="/assets/static/16x16.813b813.5c0d295e2144ef4e8341256bad6591cd.png 40w" sizes="(max-width: 40px) 100vw, 40px" class="is-hidden-mobile g-image" style="width:16px;margin-left:0.75rem;" data-v-3094c233></div></div><div class="navbar-end" data-v-3094c233><div class="navbar-item" data-v-3094c233><div class="field is-grouped" data-v-3094c233><p class="control is-hidden-mobile" data-v-3094c233><a id="share" target="_blank" href="https://twitter.com/intent/tweet?text=Generate a simple text based favicon with https://favicon.io (via @johnsorrentino)" class="button is-default" data-v-3094c233><span class="icon" data-v-3094c233><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-twitter fa-w-16" data-v-3094c233><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" data-v-3094c233></path></svg></span><strong data-v-3094c233>Share</strong></a></p><p class="control" data-v-3094c233><a id="save" target="_blank" class="button is-default" data-v-3094c233><span class="icon" data-v-3094c233><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="save" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa fa-save fa-w-14" data-v-3094c233><path fill="currentColor" d="M433.941 129.941l-83.882-83.882A48 48 0 0 0 316.118 32H48C21.49 32 0 53.49 0 80v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V163.882a48 48 0 0 0-14.059-33.941zM224 416c-35.346 0-64-28.654-64-64 0-35.346 28.654-64 64-64s64 28.654 64 64c0 35.346-28.654 64-64 64zm96-304.52V212c0 6.627-5.373 12-12 12H76c-6.627 0-12-5.373-12-12V108c0-6.627 5.373-12 12-12h228.52c3.183 0 6.235 1.264 8.485 3.515l3.48 3.48A11.996 11.996 0 0 1 320 111.48z" data-v-3094c233></path></svg></span><strong data-v-3094c233>Save</strong></a></p><p class="control" data-v-3094c233><a target="_blank" class="button is-info" data-v-3094c233><span class="icon" data-v-3094c233><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="download" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-download fa-w-16" data-v-3094c233><path fill="currentColor" d="M216 0h80c13.3 0 24 10.7 24 24v168h87.7c17.8 0 26.7 21.5 14.1 34.1L269.7 378.3c-7.5 7.5-19.8 7.5-27.3 0L90.1 226.1c-12.6-12.6-3.7-34.1 14.1-34.1H192V24c0-13.3 10.7-24 24-24zm296 376v112c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V376c0-13.3 10.7-24 24-24h146.7l49 49c20.1 20.1 52.5 20.1 72.6 0l49-49H488c13.3 0 24 10.7 24 24zm-124 88c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20zm64 0c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20z" data-v-3094c233></path></svg></span><strong data-v-3094c233>Download</strong></a></p></div></div></div></div></nav><section id="generate-from-text" class="section" data-v-3094c233><div class="container" data-v-3094c233><form id="form" data-v-3094c233><div class="box" data-v-3094c233><h3 class="title is-3" data-v-3094c233>Generate From Text</h3><div class="columns is-multilie" data-v-3094c233><div class="column is-one-third" data-v-3094c233><div class="field" data-v-3094c233><div class="control" data-v-3094c233><label for="text" class="label" data-v-3094c233>Text</label><input id="text" type="text" placeholder="Text" value="F" class="input" data-v-3094c233></div></div><div class="field" data-v-3094c233><div class="control" data-v-3094c233><label for="background" class="label" data-v-3094c233>Background</label><div class="select" style="width:100%;" data-v-3094c233><select id="background" style="width:100%;" data-v-3094c233><option value="square" data-v-3094c233>Square</option><option value="circle" data-v-3094c233>Circle</option><option value="rounded" selected="selected" data-v-3094c233>Rounded</option></select></div></div></div><div class="field" data-v-3094c233><div class="control" data-v-3094c233><label for="font-family" class="label" data-v-3094c233>
-                    Font Family (view all on
-                    <a href="https://fonts.google.com/" target="_blank" data-v-3094c233>Google Fonts</a>)
-                  </label><div class="select" style="width:100%;" data-v-3094c233><select id="font-family" style="width:100%;" data-v-3094c233></select></div></div></div><div class="field" data-v-3094c233><div class="control" data-v-3094c233><label for="font-size" class="label" data-v-3094c233>Font Size</label><input id="font-size" type="integer" min="10" max="500" placeholder="Font Size" value="110" class="input" data-v-3094c233></div></div></div><div class="column is-one-third" data-v-3094c233><div class="field" data-v-3094c233><div class="control" data-v-3094c233><label for="font-color" class="label" data-v-3094c233>Font Color</label><input id="font-color" type="text" placeholder="Font Color" value="#FFFFFF" class="input" data-v-3094c233></div></div></div><div class="column is-one-third" data-v-3094c233><div class="field" data-v-3094c233><div class="control" data-v-3094c233><label for="background-color" class="label" data-v-3094c233>Background Color</label><input id="background-color" type="text" placeholder="Background Color" value="#209CEE" class="input" data-v-3094c233></div></div></div></div></div></form></div></section>
+<section class="index-metadata">
+    <div class="index-metadata__slide">
+      <header>
+        <h3>Metadata</h3>
+      </header>
+      <section class="index-metadata__content">
+        <h4>Image <span class="index-metadata__count">Recommend 1200&times;628</span></h4>
+        <label for="input" class="index-metadata__image js-image" style="background-image: url(/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png)">
+          <div class="index-metadata__image-button">
+            <div class="index-metadata__image-button-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="22" height="24" viewBox="0 0 22 24">
+                <g fill="none" fill-rule="evenodd" stroke="#2A81FB" stroke-width="4" transform="translate(2 3)">
+                  <polyline points="0 9 9 0 18 9"/>
+                  <path d="M9,0 L9,21"/>
+                </g>
+              </svg>
+            </div>
+            <div class="index-metadata__image-button-text">Drag & Drop or Click</div>
+          </div>
+        </label>
+        <input id="input" class="js-image-input" type="file" style="display:none">
+        <h4>Title <span class="index-metadata__count js-title-count">38</span></h4>
+        <textarea class="index-metadata__text js-title" rows="2">Meta Tags — Preview, Edit and Generate</textarea>
+        <h4>Description <span class="index-metadata__count js-description-count">139</span></h4>
+        <textarea class="index-metadata__text js-description" rows="5">With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!</textarea>
+      </section>
+    </div>
+  </section>
 
+
+  <section class="index-preview">
+    <div class="index-preview__slide">
+      <header class="index-preview__header">
+        <h3>Preview</h3>
+        <a href="#metatags" data-modal-open class="index-preview__button">
+          <svg width="20" height="15" viewBox="0 0 20 15" xmlns="http://www.w3.org/2000/svg"><g stroke="#2A81FB" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"><path d="M5.744 2.857L1 7.732l4.696 4.953M14.304 2.857L19 7.81l-4.696 4.952M11.957 1L8 14"/></g></svg>
+          <span>Generate Meta Tags</span>
+        </a>
+      </header>
+
+      <div class="index-metadata__content">
+        <div id="google" class="metadata-group__display is-active">
+
+            <h4 class="metadata-group__title"><span>Google</span></h4>
+
+          <div class="card-seo-google">
+            <span class="card-seo-google__title js-preview-title">Meta Tags — Preview, Edit and Generate</span>
+            <div class="card-seo-google__url">
+              <span class="card-seo-google__url-title js-preview-domain">https://metatags.io/</span>
+              <span class="card-seo-google__url-arrow"></span>
+            </div>
+            <span class="card-seo-google__description js-preview-description">
+              With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
+            </span>
+          </div>
+        </div>
+
+
+        <div id="facebook" class="metadata-group__display is-active">
+          <h4 class="metadata-group__title"><span>Facebook</span></h4>
+          <div class="card-seo-facebook">
+            <div class="card-seo-facebook__image js-preview-image" style="background-image: url(/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png)"></div>
+            <div class="card-seo-facebook__text">
+              <span class="card-seo-facebook__link js-preview-domain">metatags.io</span>
+              <div class="card-seo-facebook__content">
+                <div style="margin-top:5px">
+                  <div class="card-seo-facebook__title js-preview-title">Meta Tags — Preview, Edit and Generate</div>
+                </div>
+                <span class="card-seo-facebook__description js-preview-description">With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="twitter" class="metadata-group__display is-active">
+          <h4 class="metadata-group__title"><span>Twitter</span></h3>
+          <div class="card-seo-twitter">
+            <div class="card-seo-twitter__image js-preview-image" style="background-image: url(/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png)"></div>
+            <div class="card-seo-twitter__text">
+              <span class="card-seo-twitter__title js-preview-title">Meta Tags — Preview, Edit and Generate</span>
+              <span class="card-seo-twitter__description js-preview-description">With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!</span>
+              <span class="card-seo-twitter__link js-preview-domain">metatags.io</span>
+            </div>
+          </div>
+        </div>
+
+        <div id="linkedin" class="metadata-group__display">
+          <h4 class="metadata-group__title"><span>Linkedin</span></h4>
+          <div class="card-seo-linkedin">
+            <div class="card-seo-linkedin__image js-preview-image" style="background-image: url(/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png)"></div>
+            <div class="card-seo-linkedin__text">
+              <div class="card-seo-linkedin__content">
+                <div class="card-seo-linkedin__title js-preview-title">Meta Tags — Preview, Edit and Generate</div>
+                <span class="card-seo-linkedin__link js-preview-domain">metatags.io</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="pinterest" class="metadata-group__display">
+          <h4 class="metadata-group__title"><span>Pinterest</span></h4>
+          <div class="card-seo-pinterest">
+            <div class="card-seo-pinterest__image">
