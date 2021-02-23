@@ -27,6 +27,9 @@ comments: false
   margin: 0 auto;
   width: 90%;
   }
+  .content {
+  margin: 50px auto 0;
+}
 </style>
 <body>
   <div class="content">
