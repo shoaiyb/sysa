@@ -7,7 +7,7 @@ redirect_from:
   - /xml-parser/
 image: assets/images/logo.svg
 imageshadow: true
-comment: false
+comments: false
 ---
 
 This XML parser and a converter is a tool that will help you to convert and/or parse HTML and JavaScript to XML for your websites so that this code won't be executed. It will help you in syntax highlighting, parsing Google adsense code for blogger.    
