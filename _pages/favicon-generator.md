@@ -10,24 +10,16 @@ imageshadow: true
 comments: false
 ---
 
-<div class="column is-7">
-<h1 class="subtitle is-spaced is-uppercase has-text-grey-light has-text-weight-bold">Favicon Generator / Generate from Image</h1>
-<p class="title is-3 has-text-letter-spacing-wide">Quickly generate your favicon from an image by uploading your image below. Download your favicon in the most up to date formats.</p>
-</div>
-<div class="column is-4">
-<div class="is-pulled-right">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+
+
+Quickly generate your favicon from an image by uploading your image below. Download your favicon in the most up to date formats.   
+
 <section id="generate-from-image" class="section" data-v-c5436aa6>
 <div class="container" data-v-c5436aa6>
 <div class="columns" data-v-c5436aa6>
 <div class="column is-8" data-v-c5436aa6>
 <div class="box" data-v-c5436aa6>
-<h3 class="title is-3" data-v-c5436aa6>Converter</h3>
+Converter
 <div class="file-dropzone" data-v-c5436aa6>
 <input id="image" type="file" data-v-c5436aa6>
 <p class="has-text-centered has-text-3 is-vcentered" data-v-c5436aa6>
@@ -36,8 +28,6 @@ comments: false
 </i>
 </span>
 <span class="is-3" data-v-c5436aa6>Drag and drop your file here or click here to upload.</span>
-</p>
-</div>
 <br data-v-c5436aa6>
 <div class="field is-grouped" data-v-c5436aa6>
 <p class="control" data-v-c5436aa6>
@@ -50,10 +40,8 @@ comments: false
 </span>
 <span data-v-c5436aa6>Download</span>
 </a>
-</p>
-</div>
-</div>
-</div>
+  
+<script src="https://favicon.io/assets/js/app.771d1605.js" defer></script>
 <script src="https://favicon.io/assets/js/page--src--pages--favicon-converter-vue.48250a7d.js" defer></script>
 
 
