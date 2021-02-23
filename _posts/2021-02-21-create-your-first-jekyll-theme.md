@@ -4,6 +4,7 @@ title:  "Create Your First Jekyll Theme"
 author: shoaiyb
 image: assets/images/create-jekyll-theme.webp
 toc: true
+category: jekyll
 ---
 
 #### Getting Started
