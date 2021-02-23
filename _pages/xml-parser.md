@@ -2,6 +2,10 @@
 layout: page
 title: XML Parser
 permalink: /tools/xml-parser/
+redirect_from:
+  - /xml-parser
+  - /xml-parser/
+image: /assets/images/logo.svg
 ---
 
 This XML parser or converter tool will help you to convert or parse HTML to XML, JavaScript to XML for your Blogger so that this code won't be executed. It will help you in syntax highlighting, parsing Google adsense code for blogger.    
