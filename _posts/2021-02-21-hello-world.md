@@ -1,7 +1,6 @@
 ---
 layout: amp
 title:  "Hello World!"
-permalink: /hello-world/?amp
 author: shoaiyb
 image: assets/images/logo.svg
 toc: true
