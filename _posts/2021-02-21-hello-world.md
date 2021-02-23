@@ -1,11 +1,7 @@
 ---
-layout:
- - post
- - amp
+layout: amp
 title:  "Hello World!"
-permalink:
- - /hello-world/
- - /hello-world/?amp
+permalink: /hello-world/?amp
 author: shoaiyb
 image: assets/images/logo.svg
 toc: true
