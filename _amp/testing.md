@@ -1,7 +1,7 @@
 ---
 layout: amp
 title: Test Amp
-permalink: /testing/?amp
+permalink: /testing/
 comments: false
 toc: true
 ---
