@@ -17,20 +17,11 @@ comments: false
 
 Image To Data URI Convertor. upload image convert data URI
 
-<h2>Upload Image</h2>
-<a href="#" class="bx_min icn twe_icn i-min"></a>
-</div>
-<div class="bl_bxhr"><div class="loading-hcg sgif"></div></div>
-</div>
-<div class="bc_bxbd">
-<div class="up-imgs">Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*"><div id="ldimg" style="display: none;">Loading...</div></div>
-<div class="m-div">
-<div id="img-ld-dv"></div>
-</div>
-</div>
-</div>
+
+<div class="up-imgs">Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*">
+  <div id="ldimg" style="display: none;">Loading...</div></div>
 <div class="btn-blue">
-<a href="#" class="slkt blue-btn" id="generate"><span><i class="i-grw icn twe_icn"></i></span>Generate</a>
+<a href="#" class="btn blue-btn" id="generate"><span><i class="i-grw icn twe_icn"></i></span>Generate</a>
 </div>
 <div class="code-box">
 <div class="code-box-hed">
