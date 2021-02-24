@@ -1,4 +1,3 @@
-
 ---
 layout: amp
 title: Test
