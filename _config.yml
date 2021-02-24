@@ -10,7 +10,7 @@ disqus: 'shoaiyb'
 mailchimp-list: 'https://sysa.us1.list-manage.com/subscribe/post?u=470d027d272e559f32772d979&amp;id=f08439ffdc'
 include:
   - _pages
-  - _amp
+  - _amp-post
 permalink: /:title/
 email: contact@sysa.ml
 formspree: xknpaeab
