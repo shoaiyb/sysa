@@ -13,7 +13,7 @@ permalink: /:title/
 email: contact@sysa.ml
 formspree: xknpaeab
 include: ["_amp"]
-permalink: /:title/?amp
+permalink: /:title/amp/
 
 # Authors
 authors:
