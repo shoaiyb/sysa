@@ -11,7 +11,6 @@ mailchimp-list: 'https://sysa.us1.list-manage.com/subscribe/post?u=470d027d272e5
 include: ["_pages"]
 permalink: /:title/
 include: ["_amp"]
-permalink: /:title/
 email: contact@sysa.ml
 formspree: xknpaeab
 
