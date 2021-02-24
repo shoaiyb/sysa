@@ -53,7 +53,7 @@ Image To Data URI Convertor. upload image convert data URI
 </div>
 </div>
 <div class="code-box-cnt">
-<textarea class="form-control mb3" id="code_html" aria-label="HTML code"></textarea>
+<textarea class="form-control mb3" style="height: 13em;" id="code_html" aria-label="HTML code"></textarea>
 <button class="code_selectall" data-id="code_html" type="button">select all</button>
 </div>
 </div>
@@ -65,7 +65,7 @@ Image To Data URI Convertor. upload image convert data URI
 <a href="#" class="copy_code" data-target="code_url" data-id="link" title="copy code"><i class="fa fa-copy"></i></a>
 </div></div>
 <div class="code-box-cnt">
-<textarea class="form-control mb3" id="code_url" aria-label="HTML code"></textarea>
+<textarea class="form-control mb3" style="height: 13em;" id="code_url" aria-label="HTML code"></textarea>
 <button class="code_selectall" data-id="code_url" type="button">select all</button>
 </div>
 </div>
