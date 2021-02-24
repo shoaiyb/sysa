@@ -58,7 +58,7 @@ Image To Data URI Convertor. upload image convert data URI
 </div>
 </div>
 <div class="opt_btns">
-<a href="#" id="code-dwnload" class="i_btn w_bg slkt"><span rows="8" class="form-control mb-3"></span>Download The Code</a></div>
+<a href="#" id="code-dwnload" class="btn btn-dark"><span class="btn btn-dark"></span>Download The Code</a></div>
 
 
 
