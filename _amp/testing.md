@@ -2,7 +2,7 @@
 layout: amp
 description: Testing amp.
 title: Test
-permalink: /test/amp/
+permalink: /testing/amp/
 toc: true
 ---
 
