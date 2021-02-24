@@ -1,7 +1,7 @@
 ---
 layout: amp
 title: hello
-permalink: /hello/?amp
+permalink: /hello/amp/
 toc: true
 ---
 
