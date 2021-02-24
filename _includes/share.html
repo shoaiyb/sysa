@@ -14,7 +14,14 @@
                 <i class="fab fa-facebook-f"></i>
             </a>
         </li>
-
+        
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="mailto:?subject={{ page.title }}&amp;body={{ page.url | absolute_url }}" onclick="window.open(this.href, 'email-share', 'width=550,height=435');return false;">
+                <i class="fab fa-email"></i>
+            </a>
+        </li>
+        
+        
         <li class="ml-1 mr-1">
             <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'width=550,height=435');return false;">
                 <i class="fab fa-linkedin-in"></i>
