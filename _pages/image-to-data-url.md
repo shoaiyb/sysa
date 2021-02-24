@@ -14,21 +14,9 @@ comments: false
 
 
 
-<div class="chr-div-btn"></div>
+
 Image To Data URI Convertor. upload image convert data URI
-<div class="comment-cnt-up">
-<div class="share_box">
-<div class="fb-like" id="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true" data-href="/tools/image-to-data-url/"></div>
-</div>
-<div id="total-comments">
-<span></span>
-</div>
-</div>
-<form id="rst" name="rst">
-<div class="bl_bx">
-<div class="bl_bxhd">
-<div class="bl_bxhl"></div>
-<div class="bl_bxhc">
+
 <h2>Upload Image</h2>
 <a href="#" class="bx_min icn twe_icn i-min"></a>
 </div>
