@@ -8,8 +8,8 @@ toc: true
 ---
 
 
-#### 
-#### 
-#### 
-#### 
-#### 
+#### Getting Started
+#### What Should Be Needed
+#### Amp Scripts
+#### Remove Unused CSS/JS
+#### Move CSS And JS To Inline
