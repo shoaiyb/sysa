@@ -1,6 +1,7 @@
 ---
 layout: page
 title: XML Parser
+description: This XML parser and a converter is a tool that will help you to convert and/or parse HTML and JavaScript to XML.
 permalink: /tools/xml-parser/
 redirect_from:
   - /xml-parser
