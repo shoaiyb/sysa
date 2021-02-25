@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Policy
+description: Privacy Policy for shoaiyb sysa.
 permalink: /policy/
 redirect_from:
   - /policy
