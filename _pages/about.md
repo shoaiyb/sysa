@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Get to know more about me.
 permalink: /about/
 comments: false
 toc: true
