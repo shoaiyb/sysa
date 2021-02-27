@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Create Your First Jekyll Theme"
+description: Create your first jekyll theme from scratch never been easier, but with me you'll find it much easier.
 author: shoaiyb
+permalink: /@:author/:title/
 image: assets/images/create-jekyll-theme.webp
 toc: true
-category: jekyll
-tag: develop
+category: jekyll, develop
+tag: 
 ---
 
 #### Getting Started
@@ -75,7 +77,8 @@ The `_includes` file is going to the same as `_layouts` structure.
 -- social-share.html
 -- adsense.html
 #### Create index.html
-```index.html
+
+```html
 ---
 layout: default
 title: Home
@@ -86,6 +89,7 @@ title: Home
         {% include postbox.html %}
     {% endfor %}
 </div>
+
 ```
 #### Create 404.html
 
