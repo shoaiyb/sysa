@@ -3,11 +3,10 @@ layout: post
 title:  "Create Your First Jekyll Theme"
 description: Create your first jekyll theme from scratch never been easier, but with me you'll find it much easier.
 author: shoaiyb
-permalink: /@:author/:title/
 image: assets/images/create-jekyll-theme.webp
+imageshadow: true
 toc: true
 category: jekyll, develop
-tag: 
 ---
 
 #### Getting Started
