@@ -10,5 +10,4 @@ category: blogger, javascript
 ---
 
 # What is Blogger url shortener?
-Blogger url shortener is a simple javascript developed by [Developer Name]({{ site.base_url }})    
-
+Blogger url shortener is a simple javascript named BloggerJs, developed by [Kenny Cruz](https://github.com/jokenox/) in 2017-2018 and released for free under MIT Licence.    
