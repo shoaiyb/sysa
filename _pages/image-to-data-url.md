@@ -9,7 +9,6 @@ redirect_from:
 image: assets/images/logo.svg
 imageshadow: true
 comments: false
-published: false
 ---
 
 
