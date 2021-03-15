@@ -95,7 +95,7 @@ paginate_path: /page/:num/
 #      disable : true
 
 # Other
- markdown: kramdown
+ kramdown: 
  highlighter: rouge
 
 
