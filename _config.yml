@@ -96,7 +96,6 @@ paginate_path: /page/:num/
 
 # Other
  kramdown: 
-   input: GFM
  highlighter: pygments
 
 
