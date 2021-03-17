@@ -74,7 +74,7 @@ pwa:
     
     extlinks:
   attributes: {rel: nofollow, target: _blank}
-  rel_exclude: ['sysa.ml', '*.sysa.ml']
+  rel_exclude: ['sysa.ml']
   
 # Admin
 # jekyll_admin:
