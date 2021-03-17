@@ -72,7 +72,8 @@ pwa:
     - sw-register.js
     - "fonts/**/*"
     
-    extlinks:
+# External Link
+extlinks:
   attributes: {rel: nofollow, target: _blank}
   rel_exclude: ['sysa.ml']
   
