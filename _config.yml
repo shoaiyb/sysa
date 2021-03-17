@@ -41,7 +41,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  # - jekyll-admin
+  - jekyll-extlinks
   - jekyll-pwa-plugin
   - jekyll-redirect-from
     
@@ -72,7 +72,10 @@ pwa:
     - sw-register.js
     - "fonts/**/*"
     
-    
+    extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['sysa.ml', '*.sysa.ml']
+  
 # Admin
 # jekyll_admin:
 # hidden_links:
