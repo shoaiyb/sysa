@@ -8,7 +8,7 @@ imageshadow: true
 toc: true
 category: [ jekyll, gh-pages ]
 tag: [ blog ]
-star: "5"
+rating: "5"
 ---
 
 
