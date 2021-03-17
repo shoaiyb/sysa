@@ -16,7 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
     gem 'jekyll-figure'
-    gem 'jekyll-extlinks'
+    gem 'jekyll-target-blank'
     gem 'jekyll-pwa-plugin'
     gem 'jekyll-redirect-from'
     gem 'bootstrap', '~> 4.4.1'
