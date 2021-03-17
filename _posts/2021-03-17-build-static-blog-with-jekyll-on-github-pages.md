@@ -2,6 +2,7 @@
 layout: post
 title: "Build a static blog with jekyll for free on github pages"
 description: ""
+author: sysa
 image: assets/images/build-with-jekyll.webp
 imageshadow: true
 toc: true
@@ -44,11 +45,27 @@ When multiple people collaborate on a project, it’s hard to keep track revisio
 GitHub takes care of this problem by keeping track of all the changes that have been pushed to the repository.    
 ### GitHub Isn’t Just for Developers
 All this talk about how GitHub is ideal for programmers may have you believing that they are the only ones who will find it useful. Although it’s a lot less common, you can actually use GitHub for any types of files. If you have a team that is constantly making changes to a word document, for example,  you could use GitHub as your version control system. This practice isn’t common, since there are better alternatives in most cases, but it’s something to keep in mind.     
-Now that you know what GitHub is all about, and you're ready to get to the next step. and be sure to check out their.
+Now that you know what GitHub is all about, and you're ready to get to the next step. and be sure to check out their.     
+## What is Github Pages
+[GitHub Pages](https://pages.github.com) is a free place to store the files that run a website and host that website for people to visit (it only works for particular types of website, like basic HTML sites or Jekyll sites, and does not host databases).    
+
 ## What is Jekyll?
 Jekyll is a website generator that’s designed for building minimal, static blogs to be hosted on GitHub Pages.    
+It is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.     
+Jekyll takes your content written in Markdown, passes it through your templates and spits it out as a complete static website, ready to be served. GitHub Pages conveniently serves the website directly from your GitHub repository so that you don’t have to deal with any hosting.     
+Here are some websites that were created with Jekyll:     
+- [shoaiyb sysa](https://sysa.ml) (this website)     
+- [Jekyll](https://jekyllrb.com)    
 
-## Requirements
+## Purpose of Jekyll
+[Tom Preston-Werner](https://tom.preston-werner.com) created Jekyll to enable people to blog using a simple static HTML website, with all of the content hosted and version-controlled on Git repository.     
+The goal was to eliminate the complexity of other blogging platforms by creating a workflow that allows you to blog like a hacker.     
+As Tom said
+> On Sunday, October 19th, I sat down in my San Francisco apartment with a glass of apple cider and a clear mind. After a period of reflection, I had an idea. While I’m not specifically trained as an author of prose, I am trained as an author of code. What would happen if I approached blogging from a software development perspective? What would that look like?     
+>
+> Over the last month I’ve brought these concepts to fruition and I’m pleased to announce [Jekyll](https://github.com/mojombo/jekyll).     
+
+## Reminder
 Here’s a quick reminder of what you need to know about this option:    
 - Price: FREE
 - Difficulty: Medium
@@ -57,8 +74,12 @@ Here’s a quick reminder of what you need to know about this option:
 
 ## Pros
 1. Totally Free    
-2. Super fast (only static files)    
-3. Easy to make changes (edit, commit & push)    
+2. No database    
+3. No CMS     
+4. Security    
+5. Design control    
+6. Super fast (only static files)    
+7. Easy to make changes (edit, commit & push)    
 
 ## Cons
 1. A bit of tech knowledge is required    
