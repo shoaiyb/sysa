@@ -2,7 +2,7 @@
 layout: post
 title: "Build a static blog with jekyll for free on github pages"
 description: ""
-author: sysa
+author: shoaiyb
 image: assets/images/build-with-jekyll.webp
 imageshadow: true
 toc: true
@@ -60,10 +60,11 @@ Here are some websites that were created with Jekyll:
 ## Purpose of Jekyll
 [Tom Preston-Werner](https://tom.preston-werner.com) created Jekyll to enable people to blog using a simple static HTML website, with all of the content hosted and version-controlled on Git repository.     
 The goal was to eliminate the complexity of other blogging platforms by creating a workflow that allows you to blog like a hacker.     
-As Tom said
+
 > On Sunday, October 19th, I sat down in my San Francisco apartment with a glass of apple cider and a clear mind. After a period of reflection, I had an idea. While I’m not specifically trained as an author of prose, I am trained as an author of code. What would happen if I approached blogging from a software development perspective? What would that look like?     
 >
 > Over the last month I’ve brought these concepts to fruition and I’m pleased to announce [Jekyll](https://github.com/mojombo/jekyll).     
+> -- Tom Preston-Werner
 
 ## Reminder
 Here’s a quick reminder of what you need to know about this option:    
