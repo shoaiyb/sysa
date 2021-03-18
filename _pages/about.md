@@ -5,17 +5,15 @@ description: "Get to know more about shoaiyb sysa."
 permalink: /about/
 comments: false
 toc: true
-image: assets/images/logo.svg
+image: assets/images/me.webp
 imageshadow: true
 ---
 
 ## Who Am I?
-![shoaiyb sysa](assets/images/me.webp)     
-
 With what should I get started?    
 Mhh... I think I'll start with my name,    
 Well, my name is **shoaiyb sysa**,     
-I'm **17** years old, Yes **17** years old.     
+I'm 17 years old, Yes 17 years old.     
 I'm the youngest in our family,      
 I mostly like to play football but sometimes I play tv games,       
 I started to blog since when I was 13, At that time I've being so angry by everything I know it's possible but I can't archive it.      
