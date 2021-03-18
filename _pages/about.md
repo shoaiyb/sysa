@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "About Me"
+title: "About"
 description: "Get to know more about shoaiyb sysa."
 permalink: /about/
 comments: false
 toc: true
-image: "assets/images/me.webp"
+image: assets/images/me.webp
+
+
 imageshadow: true
 ---
 
