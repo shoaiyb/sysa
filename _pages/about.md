@@ -10,7 +10,8 @@ imageshadow: true
 ---
 
 ## Who Am I?
-![shoaiyb sysa]({{ author.shoaiyb.image }})
+![shoaiyb sysa](assets/images/me.webp)     
+
 With what should I get started?    
 Mhh... I think I'll start with my name,    
 Well, my name is **shoaiyb sysa**,     
