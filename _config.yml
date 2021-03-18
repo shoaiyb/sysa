@@ -41,7 +41,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - jekyll-target-blank
   - jekyll-pwa-plugin
   - jekyll-redirect-from
     
