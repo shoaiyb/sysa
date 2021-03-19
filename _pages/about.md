@@ -1,6 +1,17 @@
 ---
 layout: page
 title: About
+redirect_from: 
+  - /me
+  - /me/
+  - /sysa
+  - /sysa/
+  - /shoaiyb
+  - /shoaiyb/
+  - /shoaiybsysa
+  - /shoaiybsysa/
+  - /shoaiyb sysa
+  - /shoaiyb sysa/
 description: Get to know more about shoaiyb sysa.
 permalink: /about/
 comments: false
