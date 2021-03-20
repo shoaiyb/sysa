@@ -18,31 +18,28 @@ comments: false
 Image To Data URI Convertor. upload image convert data URI
 
 
-<div class="up-imgs">Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*">
-  <div id="ldimg" style="display: none;">Loading...</div></div>
+<div class="btn btn-dark">Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*">
+<div id="ldimg" style="display: none;">Loading...</div></div>
 <div class="btn-blue">
-<a href="#" class="btn blue-btn" id="generate"><span><i class="btn btn-black"></i></span>Generate</a>
+<a href="#" class="btn blue-btn" id="generate"><span><i class="btn btn-dark"></i></span>Generate</a>
 </div>
 <div>
-  <div class="code-box-code">HTML</div>
+<div rows="8" class="form-control mb-3">HTML</div>
 </div>
 <!--div>
 <a href="#" class="dwn_code" data-id="html" title="Download code"><i class="fa fa-download"></i></a>
 <a href="#" class="copy_code" data-target="code_html" data-id="html" title="copy code"><i class="fa fa-copy"></i></a>
 </div-->
-<div class="code-box-cnt">
-<textarea class="form-control mb3" style="height: 13em;" id="code_html" aria-label="HTML code"></textarea>
+<textarea class="form-control mb3" rows="8" class="form-control mb-3" style="height: 13em;" id="code_html" aria-label="HTML code"></textarea>
 <button class="code_selectall" data-id="code_html" type="button">select all</button>
 </div>
 </div>
-<div class="code-box">
-<div class="code-box-hed">
-<div><div class="code-box-code">URL</div></div>
+<div class="code-box-code">URL</div>
 <!--div>
 <a href="#" class="dwn_code" data-id="link" title="Download code"><i class="fa fa-download"></i></a>
 <a href="#" class="copy_code" data-target="code_url" data-id="link" title="copy code"><i class="fa fa-copy"></i></a>
 </div-->
-<textarea class="form-control mb3" style="height: 13em;" id="code_url" aria-label="HTML code"></textarea>
+<textarea rows="8" class="form-control mb-3" style="height: 13em;" id="code_url" aria-label="HTML code"></textarea>
 <button class="select" data-id="code_url" type="button">select all</button>
 </div>
 </div>
