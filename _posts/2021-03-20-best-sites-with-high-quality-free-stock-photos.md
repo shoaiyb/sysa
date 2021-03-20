@@ -19,8 +19,8 @@ rating: 5
 Pixabay offers a large collection of free stock photos, vectors and art illustrations.       
 All photos are released under Creative Commons CC0.
 
-## [Pixels](https://www.pixels.com)
-![pixels](/assets/images/pixels.png)      
+## [Pexels](https://www.pexels.com)
+![pexels](/assets/images/pexels.png)      
 
 Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license.      
 All photos are nicely tagged, searchable and also easy to discover through their discover pages.        
