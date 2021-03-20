@@ -1,4 +1,4 @@
-![logo](/assets/images/logo.svg align="center")
+<span style="display:block;text-align:center">![logo](/assets/images/logo.svg)</span>
 
 
 ![sysa](/assets/images/sysa.png)        
