@@ -40,7 +40,7 @@ Image To Data URI Convertor. upload image convert data URI
 </div-->
 <!--textarea class="form-control" id="code_url" readonly="readonly" style="height: 13em;" aria-label="HTML Code"></textarea-->
 <textarea rows="8" class="form-control" style="height: 13em;" id="code_url" readonly="readonly" aria-label="HTML Code"></textarea>
-<button class="btn btn-dark select" data-id="code_url" type="button">select all</button>
+<input class="btn btn-dark" data-id="code_url" style="text-align: center;" type="button">select all</input>
 <a href="#" id="code-dwnload" class="btn btn-dark">Download</a>
 
 
