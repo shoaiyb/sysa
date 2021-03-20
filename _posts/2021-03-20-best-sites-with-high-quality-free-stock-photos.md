@@ -2,7 +2,7 @@
 layout: post
 title: "10 best sites with high quality free stock photos"
 description: ""
-image: assets/images/best-sites-free-photos.webp
+image: assets/images/best-sites-with-free-photos.png
 imageshadow: true
 toc: true
 category: [ blogging ]
