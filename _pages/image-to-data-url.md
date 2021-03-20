@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Image to Data URl
-description: Image to data url converter, Is a simple tool that'll help you to turn images into data files.
+description: "Image to data url converter, Is a simple tool that'll help you to turn images into data files."
 permalink: /tools/image-to-data-url/
 redirect_from:
   - /image-to-data-url
@@ -25,13 +25,12 @@ Image To Data URI Convertor. upload image convert data URI
 </div>
 <div>
 <div rows="8" class="form-control mb-3">HTML</div>
-</div>
 <!--div>
 <a href="#" class="dwn_code" data-id="html" title="Download code"><i class="fa fa-download"></i></a>
 <a href="#" class="copy_code" data-target="code_html" data-id="html" title="copy code"><i class="fa fa-copy"></i></a>
 </div-->
 <textarea class="form-control mb3" rows="8" class="form-control mb-3" style="height: 13em;" id="code_html" aria-label="HTML code"></textarea>
-<button class="code_selectall" data-id="code_html" type="button">select all</button>
+<button class="code_selectall btn-dark" data-id="code_html" type="button">select all</button>
 </div>
 </div>
 <div class="code-box-code">URL</div>
@@ -40,11 +39,8 @@ Image To Data URI Convertor. upload image convert data URI
 <a href="#" class="copy_code" data-target="code_url" data-id="link" title="copy code"><i class="fa fa-copy"></i></a>
 </div-->
 <!--textarea class="form-control" id="code_url" readonly="readonly" style="height: 13em;" aria-label="HTML Code"></textarea-->
-<textarea rows="8" class="form-control" style="height: 13em;" id="code_url" aria-label="HTML Code"></textarea>
+<textarea rows="8" class="form-control" style="height: 13em;" id="code_url" readonly="readonly" aria-label="HTML Code"></textarea>
 <button class="btn btn-dark select" data-id="code_url" type="button">select all</button>
-</div>
-</div>
-
 <a href="#" id="code-dwnload" class="btn btn-dark">Download</a>
 
 
