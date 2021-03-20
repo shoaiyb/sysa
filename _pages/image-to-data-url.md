@@ -39,12 +39,12 @@ Image To Data URI Convertor. upload image convert data URI
 <a href="#" class="dwn_code" data-id="link" title="Download code"><i class="fa fa-download"></i></a>
 <a href="#" class="copy_code" data-target="code_url" data-id="link" title="copy code"><i class="fa fa-copy"></i></a>
 </div-->
-<textarea rows="8" class="form-control mb-3" style="height: 13em;" id="code_url" aria-label="HTML code"></textarea>
-<button class="select" data-id="code_url" type="button">select all</button>
+<textarea rows="8" class="form-control mb-3" style="height: 13em;" id="code_url" aria-label="HTML Code"></textarea>
+<button class="btn btn-dark select" data-id="code_url" type="button">select all</button>
 </div>
 </div>
 
-<a href="#" id="code-dwnload" class="btn btn-dark"><span class="btn btn-dark"></span>Download The Code</a>
+<a href="#" id="code-dwnload" class="btn btn-dark">Download</a>
 
 
 
