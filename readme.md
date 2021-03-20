@@ -1,3 +1,5 @@
+![logo](/assets/images/logo.svg)
+
 
 ![sysa](/assets/images/sysa.png)        
 
