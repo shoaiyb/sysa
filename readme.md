@@ -1,5 +1,3 @@
-<div style="display:block;text-align:center">![logo](/assets/images/logo.svg)</div>
-
 
 ![sysa](/assets/images/sysa.png)        
 
