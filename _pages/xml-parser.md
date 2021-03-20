@@ -12,7 +12,10 @@ comments: false
 ---
 
 This xml parser and a converter is a tool that will help you to convert and/or parse HTML and JavaScript to XML for your websites so that this code won't be executed. It will help you in syntax highlighting, parsing Google adsense code for blogger.    
-<div style="text-align: center;">Enter Your Code</div>
+
+<div class="form-group row">
+<div class="col-md-6">
+<div class="form-control" style="text-align: center;">Enter Your Code</div>
 <textarea class="form-control" onchange="sysa_parsed(this)" onkeyup="sysa_parsed(this)" style="height: 13em;"></textarea>
 <div align="center">
 </div>
