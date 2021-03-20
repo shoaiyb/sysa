@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 best sites with high quality free stock photos"
+title: "Best sites with high quality free stock photos"
 description: ""
 image: assets/images/best-sites-with-free-photos.png
 imageshadow: true
