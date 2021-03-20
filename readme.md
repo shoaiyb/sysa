@@ -1,4 +1,3 @@
-## shoaiyb sysa
 
 ![sysa](/assets/images/sysa.png)        
 
