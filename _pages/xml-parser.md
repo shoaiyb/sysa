@@ -1,7 +1,7 @@
 ---
 layout: page
 title: XML Parser
-description: This XML parser and a converter is a tool that will help you to convert and/or parse HTML and JavaScript to XML.
+description: "This xml parser and a converter is a tool that will help you to convert and/or parse html and javascript to xml."
 permalink: /tools/xml-parser/
 redirect_from:
   - /xml-parser
@@ -11,7 +11,7 @@ imageshadow: true
 comments: false
 ---
 
-This XML parser and a converter is a tool that will help you to convert and/or parse HTML and JavaScript to XML for your websites so that this code won't be executed. It will help you in syntax highlighting, parsing Google adsense code for blogger.    
+This xml parser and a converter is a tool that will help you to convert and/or parse HTML and JavaScript to XML for your websites so that this code won't be executed. It will help you in syntax highlighting, parsing Google adsense code for blogger.    
 <div style="text-align: center;">Enter Your Code</div>
 <textarea class="form-control" onchange="sysa_parsed(this)" onkeyup="sysa_parsed(this)" style="height: 13em;"></textarea>
 <div align="center">
