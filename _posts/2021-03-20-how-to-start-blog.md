@@ -143,7 +143,7 @@ Once there, click on “Add New”:
 Then, switch the tab to “Popular”:       
 What you’re going to see are the most popular free WordPress themes in the market.       
 And the best part is that you can install any of them with just one click.       
-Go ahead and spend a while browsing through this [list of beautiful WordPress themes](/wordpress-beautiful-themes/) to find something that really suits your business and the main purpose behind your new blog.      
+Go ahead and spend a while browsing through this [list of beautiful responsive WordPress themes](/best-free-responsive-wordpress-blog-themes/) to find something that really suits your business and the main purpose behind your new blog.      
 Once you do see a theme you like, you can get it installed onto your blog by clicking on “install” next to the theme’s name, followed by “activate”.       
 
 **Note**: What you’re doing here is just changing the look of your blog.       
