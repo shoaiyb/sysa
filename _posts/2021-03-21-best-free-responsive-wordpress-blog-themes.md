@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Free Responsive WordPress Blog Themes"
-description: ""
+description: "Are you looking for a free WordPress blog theme for your website in this article, I've hand-picked some of the best free and responsive WordPress blog themes that you can use on your site."
 image: assets/images/free-wordpress-themes.webp
 imageshadow: true
 category: [ WordPress, Blogging, Guide ]
