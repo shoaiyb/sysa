@@ -41,7 +41,7 @@ Here are the best blogging platforms for beginners:
 
 ### WordPress.org
 
-![wordpress](/assets/images/wordpress.png)         
+![wordpress](/assets/images/wordpress.jpg)         
 
 This is truly and universally the best free blogging platform.         
 Above all, the very best choice (and the most popular) for all bloggers is WordPress.org. It’s incredibly customizable and flexible, which explains why it powers over 30% of all the websites on the internet.      
@@ -83,7 +83,7 @@ Can have a slight learning curve for non-technical people who don’t use helpfu
 
 ### Blogger
 
-![blogger](/assets/images/blogger.png)         
+![blogger](/assets/images/blogger.jpg)         
 
 Blogger is one of the oldest blog platforms around and requires a Google account to get started, but may have some major deal-breakers for some looking to grow their site.         
 
@@ -110,7 +110,7 @@ The platform doesn’t receive updates often
 
 ### Tumblr
 
-![tumblr](/assets/images/tumblr.png)        
+![tumblr](/assets/images/tumblr.jpg)        
 
 Tumblr is one of the most popular of all the microblogging platforms, and it’s also one of the easiest-to-use (but extremely limited) blogging sites in the world.        
 
@@ -140,7 +140,7 @@ Very few options to add functions to your blog
 
 ### Ghost
 
-![ghost](/assets/images/ghost.png)         
+![ghost](/assets/images/ghost.jpg)         
 
 Ghost is a minimalist and open-source blogging platform for website building that’s easy to use but lacks the ability to use many 3rd-party plugins.           
 
@@ -169,7 +169,7 @@ Unless you buy a custom domain from a 3rd-party domain registrar, your personal 
 
 ### Medium
 
-![medium](/assets/images/medium.png)        
+![medium](/assets/images/medium.jpg)        
 
 Medium is an online publishing platform that lets you import your content from anywhere on the web, but if you’re looking for the best blogging platform to make money, you’ll want to go with another one since you can’t monetize your blog.          
 
