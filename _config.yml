@@ -71,10 +71,6 @@ pwa:
     - sw-register.js
     - "fonts/**/*"
     
-# External Link
-extlinks:
-  attributes: {rel: nofollow, target: _blank}
-  rel_exclude: ['sysa.ml']
   
 # Admin
 # jekyll_admin:
@@ -88,7 +84,7 @@ extlinks:
     
 # Pagination 
 paginate: 6
-paginate_path: /page/:num/
+paginate_path: /page?:num
     
 # Other
 # highlighter: none
