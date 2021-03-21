@@ -12,10 +12,12 @@ toc: true
 
 
 
-## Reminder
-Time to set up a blog: 30-40 minutes      
-Time to customize a blog: 1-2 hours       
-Guide difficulty: Beginners      
+## Choose a topic
+The very first thing you need to do is choose a topic for your blog.       
+Most successful blogs focus on one thing. May it be tech, travel, fitness, food, fashion or simply about your business.      
+I recommend choosing a topic that you feel passionate about or interested in. It’s even better when you are an expert at something, this helps you to grow your blog through writing good, quality content to help others.        
+You don’t need to choose your blog topic right away, but it’s good if you already have something in mind.       
+Here is a tips for [choosing a blog topic](/choose-blog-topic/).         
 
 ## Find the right blogging platform
 First, decide Free blog or Self-Hosted blog?      
@@ -33,8 +35,8 @@ Most recent statistics show that WordPress which is a free (open-source) blog pl
 
 ![statistics](/assets/images/statistics.png)      
 
-WordPress is followed by [Blogger](/star-blogging-with-blogger/), [Tumblr](/start-blogging-with-tumblr), Ghost, and [Medium](/start-blogging-with-medium/).       
-I’ve tried dozens of different blogging platforms, but none of them match **WordPress**.      
+WordPress is followed by [Blogger](/star-blogging-with-blogger/), Tumblr, Ghost, and [Medium](/start-blogging-with-medium/).       
+I’ve tried dozens of different blogging platforms, but none of them match WordPress.      
 And here’s [why self-hosted WordPress is likely your best option](/why-wordpress/).      
 
 **How Much Will It Cost to Self-Host My WordPress Site**?     
@@ -43,21 +45,31 @@ Luckily, not much! All you need is:
 - Domain name:     
 Your own web address, such as www.yoursite.com which is around $10/year, but I’ll show you how to get one for free later in this guide.     
 - Web hosting:     
-Place to host your blog. Simple and reliable web hosting is usually around $4/mo.      
+Place to host your blog.      
+Simple and reliable web hosting is usually around $4/mo.      
 
 In total, it’s around $60/year, but it’s an important investment to your blog success.        
 If you think that blogging is not for you, you can always cancel the hosting service and many providers offer 30-days money-back guarantee.       
 Domain names can’t be refunded, but they will simply expire and become available once you stop paying for it.       
 I recommend going with the self-hosted route because it’s much more flexible and you can start growing and creating your blog from day one.       
 
-## Choose a name
+## Set Up Your Blog Through Web Hosting (and Register Domain Name
+To get started with a self-hosted WordPress blog, you’ll be going to need to [buy a domain name](/how-to-buy-domain/) and [choose a WordPress web hosting](/best-wordpress-host/).       
 
-## Choose a topic
-The very first thing you need to do is choose a topic for your blog.       
-Most successful blogs focus on one thing. May it be tech, travel, fitness, food, fashion or simply about your business.      
-I recommend choosing a topic that you feel passionate about or interested in. It’s even better when you are an expert at something, this helps you to grow your blog through writing good, quality content to help others.        
-You don’t need to choose your blog topic right away, but it’s good if you already have something in mind.       
-Here is a tips for [choosing a blog topic](/choose-blog-topic/).         
+From Bluehost, you will get (account gets activated instantly):       
+
+1. Custom domain name (free for the 1st year), with SSL certificate (security).        
+2. Website hosting ($2.75/mo+)     
+3. Simple, one-click install for WordPress.      
+4. Free email accounts, like you@yourdomain.com.     
+
+Of course, you don’t need to use Bluehost, especially when you already have a web host.       
+Whichever hosting company you choose, make sure it has “one-click installs” for blogging platforms such as WordPress.       
+This will make your set up process much easier.        
+If you get stuck registering a domain name and signing up for Bluehost, below is a quick step-by-step guide that I made.     
+
+[Register a domain name and choosing a web hosting plan on Bluehost](/domain-web-hosting-plan-bluehost/)
+
 
 ## Install WordPress
 Once you have signed up with [Bluehost](/go/bluehost/), you’re able to install your WordPress blog.       
