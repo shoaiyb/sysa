@@ -2,7 +2,7 @@
 layout: post
 title: "Best Free Responsive WordPress Blog Themes"
 description: ""
-image: assets/images/free-wordpress-themes.png
+image: assets/images/free-wordpress-themes.webp
 imageshadow: true
 category: [ WordPress, Blogging, Guide ]
 toc: true
@@ -39,7 +39,7 @@ Let’s take a look at some of the best free WordPress themes that you can insta
 
 ## OceanWP
 
-![oceanwp](/assets/images/oceanwp-theme.png)        
+![oceanwp](/assets/images/oceanwp-theme.jpg)        
 
 [OceanWP](https://wordpress.org/themes/oceanwp/) is one of the most popular free WordPress themes.         
 It includes lots of features that you normally only see in premium themes.          
@@ -52,7 +52,7 @@ It also has live customizer support.
 
 ## Go
 
-![go](/assets/images/go-theme.png)        
+![go](/assets/images/go-theme.jpg)        
 
 [Go](https://wordpress.org/themes/go/) is a blog theme with a minimalist approach to design.         
 It’s a simple WordPress blog theme with a welcome message and call-to-action buttons in the header.        
@@ -78,7 +78,7 @@ It’s compatible with popular page builder plugins like the Elementor page buil
 
 ## Shapely
 
-![shapely](/assets/images/shapely-theme.png)        
+![shapely](/assets/images/shapely-theme.jpg)        
 
 [Shapely](https://wordpress.org/themes/shapely/) is a great WordPress blog theme with a fullscreen background.         
 It comes in a 1-column layout with several homepage widgets, parallax sections, and call-to-action buttons.         
@@ -89,7 +89,7 @@ It’s fully optimized for good WordPress SEO.
 
 ## The Writers Blog
 
-![thewritersblog](/assets/images/writers-blog-theme.png)        
+![thewritersblog](/assets/images/the-writers-blog-theme.jpg)        
 
 [The Writers Blog](https://wordpress.org/themes/the-writers-blog/) is a free multipurpose WordPress theme designed specifically for writers, bloggers, journalists, authors, and content-rich blogs.         
 It comes with an image slider that helps your site make a great first impression.        
