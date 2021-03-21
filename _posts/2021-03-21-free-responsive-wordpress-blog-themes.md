@@ -61,6 +61,7 @@ Go is designed to improve readability and offer a great user experience.
 It uses clean typography and handles featured images really well.        
 Also, you can easily add a contact form using any popular contact form plugin.       
 
+
 ## Neve
 
 ![neve](/assets/images/neve-theme.png)       
@@ -75,9 +76,32 @@ You can easily customize Neve.
 It’s compatible with popular page builder plugins like the Elementor page builder, Divi page builder, and Beaver Builder.       
 
 
+## Shapely
+
+![shapely](/assets/images/shapely-theme.png)        
+
+[Shapely](https://wordpress.org/themes/shapely/) is a great WordPress blog theme with a fullscreen background.         
+It comes in a 1-column layout with several homepage widgets, parallax sections, and call-to-action buttons.         
+
+The theme supports popular WordPress plugins that you need to maximize the functionality of your blog.         
+It’s fully optimized for good WordPress SEO.        
+
+
+## The Writers Blog
+
+![thewritersblog](/assets/images/writers-blog-theme.png)        
+
+[The Writers Blog](https://wordpress.org/themes/the-writers-blog/) is a free multipurpose WordPress theme designed specifically for writers, bloggers, journalists, authors, and content-rich blogs.         
+It comes with an image slider that helps your site make a great first impression.        
+
+The Writers Blog is easy to set up and allows you to select a color scheme of your choice.           
+It’s a responsive and fully customizable WordPress theme.           
+You could even use it to create an online resume.        
 
 
 
+I hope this list helped you find the best free WordPress blog themes for your website.         
+I also recommend taking a look at my pick of the [best free and premium WordPress plugins](/best-free-and-premium-wordpress-plugin/) for your site.        
 
-
-
+If you liked this article, then please subscribe to my News Letter for WordPress beginner's tutorials.        
+<!--You can also find me on Twitter and Facebook.-->
