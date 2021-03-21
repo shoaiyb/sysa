@@ -53,9 +53,13 @@ This is the best choice if you want full control over the future of your blog an
 WordPress.org is a self-hosted WordPress option, meaning you’ll need a WordPress hosting provider.        
 <!--Bluehost is by far the best WordPress hosting to get started with WordPress.org.-->
 
+**Cost**:      
+Free.         
+You’ll need to pay to have a custom domain name for around $10 per year + hosting around $5 per month.       
+
 **Pros**:      
 - Full and complete control over your blog:        
-Using this robust Content Management System lets you create any kind of site from a WordPress blog to an eCommerce store.       
+Using this robust Content Management System lets you create any kind of site from a WordPress blog to an eCommerce store.     
 
 - Easy optimization for search:       
 Just install the All in One SEO plugin to add tons of extra SEO features to WordPress.         
@@ -77,11 +81,130 @@ You’ll need to manage your own backups and security (with a security plugin li
 Can have a slight learning curve for non-technical people who don’t use helpful tutorial sites like [{{ site.title }}](/).        
 
 
+### Blogger
+
+![blogger](/assets/images/blogger.png)         
+
+Blogger is one of the oldest blog platforms around and requires a Google account to get started, but may have some major deal-breakers for some looking to grow their site.         
+
+**Cost**:      
+Free.       
+
+**Pros**:       
+- Simple to start:        
+Easily set up and create a blog without paying for anything.         
+
+- Backed by Google:         
+The technology giant owns the platform so it’s secure and reliable.          
+
+**Cons**:       
+- Design:          
+The options for customization and design are extremely limited.         
+
+- Limited features:         
+You can’t really grow your blog with the limited basic blogging tools that are provided.         
+
+- Dated:        
+The platform doesn’t receive updates often
 
 
+### Tumblr
+
+![tumblr](/assets/images/tumblr.png)        
+
+Tumblr is one of the most popular of all the microblogging platforms, and it’s also one of the easiest-to-use (but extremely limited) blogging sites in the world.        
+
+**Cost**:       
+Free.        
+
+**Pros**:
+- Ease of use:         
+Super simple to start and manage your blog with.        
+
+- Customization:           
+Extensive ability to adjust your blog.          
+
+- Social media integration:         
+Easily connect a social network to your blog.        
+
+**Cons**:       
+- Theme control: 
+You can’t adjust the formatting of your site, similar to WordPress.com.         
+
+- Export issues:         
+It’s incredibly hard to export your website to another platform if you choose to do so.           
+
+- Limited features:         
+Very few options to add functions to your blog
 
 
+### Ghost
 
+![ghost](/assets/images/ghost.png)         
+
+Ghost is a minimalist and open-source blogging platform for website building that’s easy to use but lacks the ability to use many 3rd-party plugins.           
+
+**Cost**:        
+Self-hosting requires a custom domain around $10 per year + web hosting for around $7 per month.        
+
+The hosted version starts at $29 per month for 2 users and up to 100,000 page views.         
+
+**Pros**:         
+- Simple to use:         
+A clean and modern interface keeps things easy for users.          
+
+- No setup: 
+If you opt for the hosted version, setup is instant.           
+
+- Built-in SEO:          
+The platform comes with SEO tools to help you rank high in search engine results.           
+
+**Cons**:       
+- Limited customization: 
+You can’t use most paid and free themes or plugins.         
+
+- Branded domain: 
+Unless you buy a custom domain from a 3rd-party domain registrar, your personal blog will be a Ghost subdomain ending with ghost.io.          
+
+
+### Medium
+
+![medium](/assets/images/medium.png)        
+
+Medium is an online publishing platform that lets you import your content from anywhere on the web, but if you’re looking for the best blogging platform to make money, you’ll want to go with another one since you can’t monetize your blog.          
+
+**Cost**:         
+Free.         
+
+**Pros**:          
+- Ease of use:          
+There’s barely any setup required.        
+
+- Focus on writing:         
+It’s a content-first type of platform, so you can write and they handle the design.         
+
+- Reporting:          
+Offers a powerful reporting tool so you can learn more about your readers and how they’re engaging with your posts.         
+
+**Cons**:         
+- No monetization:        
+You can’t make money off of the Medium platform.          
+
+- Content control:        
+You have limited control over your content.          
+
+- Limited features:          
+Very few options to customize your site.           
+
+
+## Final Thoughts
+So which site is best for blogging?
+
+Out of all the most popular blogging platforms, I strongly recommend using WordPress.org so you get complete control and flexibility over your blog and its future.          
+
+And that’s it! Hopefully, this list helped you decide which of the best blogging platforms is the right one for you and your blog.           
+
+And please don’t forget to subscribe to my News Letter to get updates from my blog.         
 
 
 
