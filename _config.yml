@@ -84,7 +84,7 @@ pwa:
     
 # Pagination 
 paginate: 6
-paginate_path: /page?:num
+paginate_path: /page/:num/
     
 # Other
 # highlighter: none
@@ -94,9 +94,10 @@ paginate_path: /page?:num
 #      disable : true
 
 # Others
+markdown: kramdown
 kramdown:
-input: GFM
-syntax_highlighter: rouge
+ input: GFM
+ syntax_highlighter: rouge
 
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
