@@ -33,7 +33,7 @@ There many different blogging platforms that you can choose from.
 Some are more flexible and easier to use, while some are more limited and come with a higher learning curve.         
 Most recent statistics show that WordPress which is a free (open-source) blog platform is the most commonly used blogging platform in 2021. I’ve also compiled a list of [top 10 blogging platforms in 2021](/top-blogging-platforms/).       
 
-![statistics](/assets/images/statistics.png)      
+![statistics](/assets/images/statistics.webp)      
 
 WordPress is followed by [Blogger](/star-blogging-with-blogger/), Tumblr, Ghost, and [Medium](/start-blogging-with-medium/).       
 I’ve tried dozens of different blogging platforms, but none of them match WordPress.      
@@ -91,13 +91,13 @@ If you are using a web hosting service, that doesn’t offer an automatic or a q
 Once you have your admin account for WordPress all set up (previous setup), you can proceed to visit your new dashboard.      
 Just go to www.yoursite.com/wp-admin/ and input the access details for your admin account. Once you log in, you’ll see this:    
 
-![wordpressadmin](/assets/images/wordpress-admin.png)       
+![wordpressadmin](/assets/images/wordpress-dashboard.jpg)       
 
 
 ### General settings
 Start by going to the left sidebar and clicking on `Settings → General`.       
 
-![wordpresssetup](/assets/images/wordpress-general.png)       
+![wordpresssetup](/assets/images/wordpress-general.jpg)       
 
 And this is where you can set:     
 
@@ -118,7 +118,7 @@ Though the idea might sound a bit advanced, setting this is very simple.
 Just go to `Settings → Permalinks`.        
 Once there, set your permalinks to the “Post name” variant, like so:      
 
-![wordpresspermalinks](/assets/images/wordpress-permalinks.png)        
+![wordpresspermalinks](/assets/images/wordpress-permalinks.jpg)        
 
 This is the most optimal setting of the ones available and also the one preferred by Google and other search engines.      
 
@@ -127,7 +127,7 @@ The next, super-important thing that you must do is make sure that search engine
 To do that, go to `Settings → Reading` (again, from the main sidebar) and make sure that the field labeled “Discourage search engines from indexing this site” remains unchecked.      
 Like so:
 
-![seo](/assets/images/wordpress-seo-visibility.png)       
+![seo](/assets/images/wordpress-seo.jpg)       
 
 If you don’t do that, your blog might end up literally invisible to Google and many other Search Engines.        
 
@@ -138,7 +138,7 @@ Best of all, most of them are free, and you can customize them easily without an
 Go back to your WordPress dashboard and navigate to `Appearance → Themes`.       
 Once there, click on “Add New”:
 
-![wordpresstheme](/assets/images/wordpress-theme.png)      
+![wordpresstheme](/assets/images/wordpress-theme.jpg)      
 
 Then, switch the tab to “Popular”:       
 What you’re going to see are the most popular free WordPress themes in the market.       
@@ -179,7 +179,7 @@ The blog functionality is one of the core elements of the WordPress CMS.
 That’s why WordPress has a whole separate section devoted to creating and publishing blog posts.        
 You can find it if you go to Posts from the main WordPress dashboard sidebar:       
 
-![wordpresspost](/assets/images/wordpress-new-post.png)        
+![wordpresspost](/assets/images/wordpress-new-post.jpg)        
 
 Creating new posts works exactly the same as creating new pages.       
 The only difference is that your posts are going to be displayed automatically on your homepage, while your pages need to be added to a menu if you want them to be visible by your visitors.       
@@ -190,7 +190,7 @@ Luckily, the process of creating a new page in WordPress is the same no matter w
 Before doing so, you can also set your blog to a [maintenance mode](/wordpress-maintenance-mode/), which will prevent others from seeing your unfinished website.      
 To do that, go to your WordPress dashboard and then to `Pages → Add New`. What you’ll see is the main page editing screen of WordPress:
 
-![wordpresspage](/assets/images/wordpress-new-page.png)          
+![wordpresspage](/assets/images/wordpress-new-page.jpg)          
 
 As you would imagine, once you click the “Publish” button, your page becomes visible to the public.      
 
