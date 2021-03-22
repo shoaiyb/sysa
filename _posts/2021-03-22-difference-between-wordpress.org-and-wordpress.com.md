@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Difference Between WordPress.org And WordPress.com"
-description: ""
+description: "It is a very common thing to confuse WordPress.org and WordPress.com both services may seem similar at a first glance, but in fact, they differ greatly."
 author: shoaiyb
 image: assets/images/difference-between-wordpress.png
 imageshadow: true
@@ -50,13 +50,13 @@ Everything is staffed by full-time developers, designers, and support engineers.
 ## Compare
 Comparing WordPress.org and WordPress.com.            
 
-**Cost**:         
-### WordPress.org
+### Cost
+**WordPress.org**:         
 The WordPress.org, CMS can be downloaded for free, but the highest expenses for the website creation and maintenance come from domain registration and hosting service.           
 
 There are many optional premium themes and plugins which are provided for extra charge, and the price varies a lot.         
 
-### WordPress.com
+**WordPress.com**:         
 While the Basic WordPress.com plan, which is provided for free, can become rather expensive when it comes to upgrades.         
 For example:           
 
@@ -69,8 +69,8 @@ $8/year per domain
 - Premium theme:           
 From $20          
 
-**Maintenance and Development**:          
-### WordPress.org
+### Maintenance and Development
+**WordPress.org**:          
 With WordPress.org, you are fully responsible for your website, in other words, for:           
 
 - Installing and setting up your WordPress website.         
@@ -80,9 +80,12 @@ With WordPress.org, you are fully responsible for your website, in other words, 
 - Keeping your site secure for your visitors and protecting your site against hacker attempts and spam. Check out these useful tips on [improving the security of your WordPress website](/improve-wordpress-site-security/).         
 - Dealing with all issues occurring on the website.         
 
+**WordPress.com**:        
+WordPress.com maintenance and development of your website are handled by the WordPress team, including breaking after upgrade, issues with plugins and themes, upgrading to the latest versions, backups, etc.          
 
 
 
 
 
-
+> If you want full control over your site and the best possible options, go with WordPress.org.         
+> -- {{ site.title }}
