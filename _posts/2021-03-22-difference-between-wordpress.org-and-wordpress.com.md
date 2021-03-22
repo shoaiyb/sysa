@@ -83,9 +83,23 @@ With WordPress.org, you are fully responsible for your website, in other words, 
 **WordPress.com**:        
 WordPress.com maintenance and development of your website are handled by the WordPress team, including breaking after upgrade, issues with plugins and themes, upgrading to the latest versions, backups, etc.          
 
+## Conclusion
+It’s easy to get lost in details when you are not very familiar with something.          
+Same goes here, If you’re still undecided which platform is the best option for your next website, let’s make things even simpler.       
 
+So, is it WordPress.org or WordPress.com?         
 
+- WordPress.org:         
+Is for website owners who want to be independent.          
+That means that you build everything on your own from the ground up.           
+Most importantly, you’re free to install any tools you like and control the overall website functionality.           
+This is the best choice if you want to be completely on your own.             
 
+- WordPress.com:         
+Is good for you if you don’t want to get your hands dirty with hosting, third-party tools, and custom website functionality.    
+You just sign up and get an online space of your own instantly.          
+The downside is that you won’t be able to customize it much unless you go with an expensive plan.           
 
 > If you want full control over your site and the best possible options, go with WordPress.org.         
-> -- {{ site.title }}
+> If the setup part is what scares you, I recommend <a href="/go/bluehost" target="_blank" rel="nofollow">Bluehost</a>, a popular host that will install WordPress for you during the checkout. You sign up for a monthly $2.95 and your WordPress site will be ready to use in just a few minutes. I'm always vouching for Bluehost because it’s cheap and basically does all the ugly work for you. Plus, you get a domain name for free.
+> -- shoaiyb sysa
