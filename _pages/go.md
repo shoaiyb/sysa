@@ -4,8 +4,8 @@ title: Go To
 description: "Affiliate GoTo"
 permalink: /go/
 redirect_from:
-  - /go/*
-  - /go/*/
+  - /go/bluehost
+  - /go/bluehost/
 comments: false
 ---
 
