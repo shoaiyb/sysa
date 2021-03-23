@@ -2,11 +2,11 @@
 layout: page
 title: Tools
 description: ""
+permalink: /tools/
 image: assets/images/logo.svg
 imageshadow: true
 comments: false
 toc: true
-
 ---
 
 
@@ -34,10 +34,4 @@ Favicon Generator
 
 ![adsense eligibility checker](/assets/images/adsense-eligibility-checker.jpg)        
 
-Adsense Eligibility Checker
-
-## 
-
-## 
-
-## -->
+Adsense Eligibility Checker-->
