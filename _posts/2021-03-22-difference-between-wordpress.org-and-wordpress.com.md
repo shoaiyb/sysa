@@ -32,7 +32,7 @@ No registration is required with WordPress.org.
 
 ## WordPress.com
 
-![wordpresscom](/assets/images/wordpress.com.png)        
+![wordpresscom](/assets/images/wordpress.com.webp)          
 
 WordPress.com is a commercial service where you can host your website for free.          
 However, different limitations are applied to your account.           
