@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Instructions to begin an effective blog in 2022"
-description: ""
+title: "Instructions to Begin an Effective Blog in 2022"
+description: "There many different blogging platforms that you can choose from some are more flexible and easier to use, while some are more limited and come with a higher learning curve."
 author: shoaiyb
 image: assets/images/start-blog.png
 imageshadow: true
 featured: true
-category: [ WordPress, blogging, guide, beginner ]
+category: [ WordPress, Blogging, Guide, Beginner ]
 toc: true
 ---
 
@@ -31,7 +31,7 @@ But still if you're just a beginner and wanted to [start with free blogging](/st
 ## Which blogging platform should you choose
 There many different blogging platforms that you can choose from.       
 Some are more flexible and easier to use, while some are more limited and come with a higher learning curve.         
-Most recent statistics show that WordPress which is a free (open-source) blog platform is the most commonly used blogging platform in 2021. I’ve also compiled a list of [top 10 blogging platforms in 2021](/top-blogging-platforms/).       
+Most recent statistics show that WordPress which is a free (open-source) blog platform is the most commonly used blogging platform in 2021. I’ve also compiled a list of [top blogging platforms in 2021](/top-blogging-platforms/).       
 
 ![statistics](/assets/images/statistics.webp)      
 
@@ -84,7 +84,7 @@ Don’t worry, most reputable web hosting companies offer one-click install for 
 We should note that your domain name activation might take 10 to 15 minutes, so don’t freak out about the weird looking temporary domain name.        
 Bluehost will allow you to choose your admin login and password for WordPress when it’s done installing.         
 Experiencing any difficulties with this installation process? Read my other guide on [installing WordPress on Bluehost](/install-wordpress-on-bluehost/).       
-If you are using a web hosting service, that doesn’t offer an automatic or a quick install for WordPress, read the official [WordPress manual installation guide](https://wordpress.org/support/article/how-to-install-wordpress/).          
+If you are using a web hosting service, that doesn’t offer an automatic or a quick install for WordPress, read the official <a href="https://wordpress.org/support/article/how-to-install-wordpress/" target="_blank" rel="nofollow">WordPress manual installation guide</a>.          
 
 
 ## Configure your WordPress site
