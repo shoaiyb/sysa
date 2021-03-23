@@ -3,7 +3,7 @@ name: "shoaiyb sysa"
 title: "shoaiyb sysa"
 description: "Get free blogging ideas, tips & tricks, And learn how to develop some simple scripts as a beginner."
 logo: 'assets/images/logo.svg'
-favicon: 'assets/images/logo.svg'
+favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-187607202-1'
 disqus: 'shoaiyb'
