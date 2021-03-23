@@ -12,11 +12,11 @@ redirect_from:
   - /shoaiybsysa/
   - /shoaiyb sysa
   - /shoaiyb sysa/
-description: Get to know more about shoaiyb sysa.
+description: "Get to know more about shoaiyb sysa."
 permalink: /about/
 comments: false
 toc: true
-image: assets/images/me.webp
+image: assets/images/logo.svg
 imageshadow: true
 ---
 
@@ -38,8 +38,8 @@ And sometimes searching something very important as a developer.
 
 ## What I've Archived?
 
-### sysa.css
+<!--### sysa.css
 sysa.css is an open source and a small free set of responsive css framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.     
-
+-->
 Actually I've never done something unique, something very important for others in my life as a blogger, youtuber and a developer,   
 But I'm always looking for what newbies are struggling with and find out the solutions.   
