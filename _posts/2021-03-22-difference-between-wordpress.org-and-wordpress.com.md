@@ -3,9 +3,9 @@ layout: post
 title: "Difference Between WordPress.org And WordPress.com"
 description: "It is a very common thing to confuse WordPress.org and WordPress.com both services may seem similar at a first glance, but in fact, they differ greatly."
 author: shoaiyb
-image: assets/images/difference-between-wordpress.png
+image: assets/images/wordpress-differences.webp
 imageshadow: true
-category: [ WordPress, Guide ]
+category: [ WordPress, Guide, Blogging ]
 toc: true
 ---
 
@@ -19,7 +19,7 @@ Both services may seem similar at a first glance, but in fact, they differ great
 
 ## WordPress.org
 
-![wordpressorg](/assets/images/wordpress.png)          
+![wordpressorg](/assets/images/wordpress.jpg)           
 
 WordPress.org is a service where you can get a copy of the WordPress blog software.           
 In this case, you will need to take care of the hosting service for your website.          
