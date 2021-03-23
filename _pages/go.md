@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BlueHost
-description: ""
+title: Go To
+description: "Affiliate GoTo"
 permalink: /go/
 redirect_from:
   - /go/*
