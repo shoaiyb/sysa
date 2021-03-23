@@ -3,6 +3,9 @@ layout: post
 title: "Best Blogging Platforms"
 description: "Starting a blog and wondering what are the best blog sites? In this post, I’ve made it easy for you to pick what works best for you with a list of the best blogging platforms for beginners."
 author: shoaiyb
+redirect_from:
+  - /top-blogging-platforms
+  - /top-blogging-platforms/
 image: assets/images/best-blogging-platforms.png
 imageshadow: true
 category: [ Blogging, Guide, Beginner ]
