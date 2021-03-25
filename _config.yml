@@ -38,6 +38,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - amp-jekyll
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
