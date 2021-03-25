@@ -25,28 +25,6 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sen:400,700&amp;display=swap">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
     <style amp-boilerplate="">body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate="">body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-    {% if page.rating %}
-    <script type="application/ld+json">
-    {
-    "@context": "http://schema.org/",
-    "@type": "Review",
-    "itemReviewed": {
-    "@type": "Thing",
-    "name": "{{ page.title }}"
-    },
-    "author": {
-    "@type": "Person",
-    "name": "{{ author.display_name }}"
-    },
-    "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-    "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
-    "bestRating": "5"
-    }
-    }
-    </script>
-    {% endif %}
   </head>
   <body class="">
 <div class="lb">
@@ -58,8 +36,8 @@
 <nav id="b"><ul><h3>Menu</h3>
 <li><a href="{{ site.baseurl }}/">Home</a></li>
 <li><a href="{{ site.baseurl }}/tools/">Tools</a></li>
-<li><a href="{{ site.baseurl }}/categories#blogging/">Blogging Tip's</a></li>
-<li><a href="{{ site.baseurl }}/categories#develop/">Web Development</a></li>
+<li><a href="{{ site.baseurl }}/categories/#blogging">Blogging Tip's</a></li>
+<li><a href="{{ site.baseurl }}/categories/#develop">Web Development</a></li>
 <li><a href="{{ site.baseurl }}/contact/">Contact Me</a></li>
 <li><a href="{{ site.baseurl }}/policy/">Privacy Policy</a></li>
 </ul>
@@ -85,7 +63,7 @@
 <div class="">
 <div class="wb">
 
-<h1 class="xb">Hello World!</h1>
+<h1 class="xb">{{ page.title }}</h1>
 
 <div class="r u z">
 <div>
@@ -102,7 +80,7 @@
 
 
 <div class="yb">
-<amp-img class="kb ic amp-wp-enforced-sizes" src="https://sysa.ml/assets/images/logo.svg" alt="Hello World!" width="400" height="400" layout="intrinsic"><noscript><img class="kb ic" src="https://sysa.ml/assets/images/logo.svg" alt="Hello World!" width="400" height="400"></noscript></amp-img></div>
+<amp-img class="kb ic amp-wp-enforced-sizes" src="https://sysa.ml/assets/images/logo.svg" alt="{{ page.title }}" width="400" height="400" layout="intrinsic"><noscript><img class="kb ic" src="https://sysa.ml/assets/images/logo.svg" alt="{{ page.title }}" width="400" height="400"></noscript></amp-img></div>
 
 
 <div class="tb">
