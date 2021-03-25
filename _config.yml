@@ -99,11 +99,9 @@ paginate_path: /page/:num/
 #  kramdown:
 #   input: GFM
 #   syntax_highlighter: rouge
-
-markdown: kramdown
-    highlighter: rouge
-    kramdown:
-      input: GFM
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
 
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
