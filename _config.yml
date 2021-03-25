@@ -57,7 +57,11 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
     
+    
+# Amp
+ampdir: /
 
+# PWA
 pwa:
   enabled: false # Optional
   sw_src_filepath: service-worker.js # Optional
