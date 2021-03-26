@@ -16,7 +16,7 @@ toc: true
 
 ![xml parser](/assets/images/xml-parser.jpg)         
 
-XML Parser
+[XML Parser](/tools/xml-parser/)
 
 <!--## Amp Checker
 
