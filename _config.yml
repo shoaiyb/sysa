@@ -69,7 +69,7 @@ pwa:
     - index.html
   precache_glob_ignores: # Optional
     - sw-register.js
-    - "fonts/**/*"
+    - "assets/fonts/**/*"
     
 # Pagination 
 paginate: 5
