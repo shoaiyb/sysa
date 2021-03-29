@@ -16,5 +16,8 @@
   ],
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "url": "https://sysa.ml",
+  "manifestUrl": "https://sysa.ml/site.webmanifest",
+  "screenshots": []
 }
