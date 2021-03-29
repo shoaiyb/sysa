@@ -5,6 +5,7 @@ description: ""
 author: shoaiyb
 image: assets/images/why-wordpress.jpg
 imageshadow: true
+category: [ WordPress ]
 toc: true
 --- 
 
@@ -14,7 +15,7 @@ toc: true
 
 Here’s why you should use WordPress:          
 
-1. WordPress is used by 40.6% of all websites         
+## WordPress is used by 40.6% of all websites         
 Roughly 40.6% of all websites on the Internet use WordPress.          
 That number is astounding if you think about it.         
 More than one in every four websites that you encounter are using WordPress.        
@@ -25,7 +26,7 @@ There’s a reason all those sites choose WordPress, too! And that’s kind of w
 | WordPress                | 0.4                               |
 | other system             | 0.6                               |
 
-2. WordPress dominates the content management system market, with ~60% market share        
+## WordPress dominates the content management system market, with ~60% market share        
 That means not only is WordPress popular for all websites, it’s especially popular for websites with a pre-built content management system.          
 The next closest competitor – Joomla with 6.8% – doesn’t even come close to matching WordPress.         
 
@@ -34,7 +35,7 @@ The next closest competitor – Joomla with 6.8% – doesn’t even come close t
 | WordPress                   | 0.596                            |
 | other systems               | 0.404                            |
 
-3. WordPress is incredibly extensible with plugins          
+## WordPress is incredibly extensible with plugins          
 That means you can add cool functionality to your site without needing to know how to code.         
 
 WordPress’ massive plugin ecosystem beats out all of the other content management systems.           
@@ -44,17 +45,17 @@ These numbers are just for the official extension directories, and leave out add
 - <a href="https://extensions.joomla.org/" target="_blank" rel="nofollow noreferrer">Joomla</a>: ~8,000      
 - <a href="https://www.drupal.org/project/project_module" target="_blank" rel="nofollow noreferrer">Drupal</a>: ~39,000       
 
-4. WordPress lets you change how it looks using themes. No code required        
+## WordPress lets you change how it looks using themes. No code required        
 Beyond plugins, WordPress also offers an insane collection of themes for your site.        
 Themes let you control exactly how your site looks, again, without needing to know a single line of code.         
 
 You can find thousands of free themes at WordPress.org, with thousands more at third-party marketplaces and developers.       
 
-5. WordPress is multilingual        
+## WordPress is multilingual        
 Not a native English speaker? No worries! The WordPress translation team has translated WordPress into 169 different languages.          
 Many plugins also offer translated versions, and you can easily create a multilingual site using plugins like Polylang or Weglot.        
 
-6. Beyoncé uses WordPress
+## Beyoncé uses WordPress
 While plenty of small websites use WordPress, you can also find tons of big brands using WordPress.          
 You’ll find huge companies like Sony Music and Mercedes Benz, publishers like BBC America and Reuters, and universities like Harvard University and the University of Washington.     
 
@@ -68,22 +69,22 @@ Some of the notable brands already using WordPress:
 
 ![img4](https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.axYo~36f5d/w:auto/h:auto/q:98/https://s15165.pcdn.co/wp-content/uploads/2017/09/time.jpg)          
 
-7. WordPress is affordable compared to other solutions        
+## WordPress is affordable compared to other solutions        
 The WordPress software itself is free and you can find plenty of free themes and plugins to build your site with.          
 That means your only unavoidable fixed costs are cheap WordPress hosting and a domain name. All in, it’s possible to run a basic WordPress site for as little as ~$60 per year, though you’ll exceed this if you want premium plugins or themes.      
 
 Compare that to Squarespace which already starts at $96 per year for the most basic plan.          
 
-8. It’s easy to find WordPress help         
+## It’s easy to find WordPress help         
 Because WordPress is the most popular content management system in the world, there’s a massive support ecosystem for anything and everything related to WordPress.          
 Plenty of blogs post [WordPress tutorials](/categories/#WordPress), and there are also dedicated <a href="https://wordpress.org/support/" target="_blank" rel="nofollow noreferrer">WordPress support forums</a>, as well as helpful beginner-friendly video tutorials.        
 
-9. WordPress is flexible         
+## WordPress is flexible         
 Because of its huge plugin ecosystem, you can use WordPress for everything from creating an eCommerce store to launching a local directory like Yelp to building a social network and lots more.          
 
 *That is, WordPress is way more than just a blogging platform nowadays.*
 
-11. WordPress isn’t just for websites anymore, either         
+## WordPress isn’t just for websites anymore, either         
 WordPress has made its REST API a massive focus lately, which opens up the door for developers to create all kinds of interesting apps based on WordPress.          
 Going forward, you’ll be able to use all of your WordPress content in new and interesting ways.        
 
