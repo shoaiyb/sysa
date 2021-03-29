@@ -59,7 +59,7 @@ jekyll-archives:
 
 # PWA
 pwa:
-  enabled: false # Optional
+  enabled: true # Optional
   sw_src_filepath: service-worker.js # Optional
   sw_dest_filename: service-worker.js # Optional
   dest_js_directory: assets/js # Required
@@ -71,17 +71,6 @@ pwa:
   precache_glob_ignores: # Optional
     - sw-register.js
     - "fonts/**/*"
-    
-  
-# Admin
-# jekyll_admin:
-# hidden_links:
-#   - posts
-#   - pages
-#   - staticfiles
-#   - datafiles
-#   - configuration
-# homepage: "pages"
     
 # Pagination 
 paginate: 5
