@@ -5,6 +5,7 @@ description: ""
 image: assets/images/amp-blogspot.webp
 imageshadow: true
 category: [ Blogspot, Amp ]
+featured: true
 toc: true
 ---
 
