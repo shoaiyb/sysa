@@ -15,12 +15,12 @@ This xml parser and a converter is a tool that will help you to convert and/or p
 
 <div class="form-group row">
 <div class="col-md-6">
-<div class="form-control" style="text-align: center;">Enter Your Code</div>
+<div class="form-control" style="text-align: center;">Enter Your Code Here</div>
 <textarea class="form-control" onchange="sysa_parsed(this)" onkeyup="sysa_parsed(this)" style="height: 13em;"></textarea>
 <div align="center">
 </div>
-<div style="text-align: center;">Your Parsed Code Here</div>
-<textarea class="form-control" id="dst" onclick="this.select()" onfocus="this.select()" readonly="readonly" style="height: 13em;"></textarea>
+<div class="form-control" style="text-align: center;">Your Parsed Code Here</div>
+<textarea class="form-control" id="dst" onclick="this.select()" onfocus="this.select()" readonly="readonly" style="height: 13em;"></textarea>         
 
 **How to use?**: To use this XML parser just paste your code in first text area and automatically it will show parsed result on next text area. Then copy the code and use it every where you want. For next using, you can bookmark this tool. Happy parsing.  
 
