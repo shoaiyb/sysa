@@ -12,4 +12,5 @@ comments: false
 
 
 
-## Go To Affiliate
+## Coming Soon
+
