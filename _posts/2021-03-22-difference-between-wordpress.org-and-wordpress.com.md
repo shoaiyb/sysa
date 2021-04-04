@@ -101,5 +101,5 @@ You just sign up and get an online space of your own instantly.
 The downside is that you won’t be able to customize it much unless you go with an expensive plan.           
 
 > If you want full control over your site and the best possible options, go with WordPress.org.         
-> If the setup part is what scares you, I recommend <a href="/go/bluehost" target="_blank" rel="nofollow">Bluehost</a>, a popular host that will install WordPress for you during the checkout. You sign up for a monthly $2.95 and your WordPress site will be ready to use in just a few minutes. I'm always vouching for Bluehost because it’s cheap and basically does all the ugly work for you. Plus, you get a domain name for free.
+> If the setup part is what scares you, I recommend <a href="/go/bluehost" target="_blank" rel="nofollow">Bluehost</a>, a popular host that will install WordPress for you during the checkout. You sign up for a monthly $2.95 and your WordPress site will be ready to use in just a few minutes. I'm always vouching for Bluehost because it’s cheap and basically does all the ugly work for you. Plus, you get a domain name for free.         
 > -- shoaiyb sysa
