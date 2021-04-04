@@ -28,6 +28,6 @@ This xml parser and a converter is a tool that will help you to convert and/or p
     height: 16em;
     width: 100%;}
 </style>
-<script type="text/javascript">// <![CDATA[
+<script type="text/javascript">
 function $(id){ return document.getElementById(id) } var char2entity = { "'" : '&#39;', '"' : '&quot;',  '<' : '&lt;', '>' : '&gt;',  '&#038;' : '&amp;'}; function encode_entities(str) {   var rv = '';  for (var i = 0; i < str.length; i++) {    var ch = str.charAt(i);    rv += char2entity[ch] || ch;  }   return rv;} function sysa_parsed(e){  $('dst').value = encode_entities(e.value)}
-// ]]&gt;</script>
+</script>
