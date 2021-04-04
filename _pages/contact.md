@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Contact me.
+description: "Contact me."
 permalink: /contact/
 comments: false
 ---
