@@ -20,7 +20,7 @@ toc: true
 
 Vletters is developed by Bung Frangki. It has a very simple but mobile-friendly website design. it takes a few seconds to load and get everything running smoothly. It covers features like menu navigation, breadcrumbs, shortcodes and search box, etc.     
 
-<a target="_blank" href="https://vletterstheme.blogspot.com/" class="btn btn-dark">DEMO</a>         
+<a target="_blank" href="https://vletterstheme.blogspot.com/" class="btn">DEMO</a>         
 <a target="_blank" href="/get/vletters.xml" class="btn btn-dark" download>DOWNLOAD</a>         
 
 ## Blanterde
