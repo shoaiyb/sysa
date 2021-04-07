@@ -2,6 +2,7 @@
 layout: page
 title: "YouTube Embed Code Generator"
 description: ""
+permalink: /tools/youtube-embed/
 comments: false
 ---
 
