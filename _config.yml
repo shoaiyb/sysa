@@ -76,7 +76,7 @@ paginate: 5
 paginate_path: /page/:num/
     
 # Highlighter
-highlighter: none
+# highlighter: none
 #  markdown: kramdown
  kramdown:
    syntax_highlighter_opts:
