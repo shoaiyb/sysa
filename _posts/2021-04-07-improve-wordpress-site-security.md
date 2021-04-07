@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Improve WordPress Site Security"
-description: ""
+description: "WordPress is the most popular Content Management System (CMS) and powers more than 30% websites, However as it grows, hackers have taken note and are beginning to specifically target WordPress site, In this tutorial I will share my best tips to keep your WordPress website secure."
 author: shoaiyb
 image: assets/images/improve-wordpress-security.webp
 imageshadow: true
@@ -118,7 +118,7 @@ Any mistake might make your site inaccessible.
 To hide the files, after your backup, there are two things you need to do:        
 First, go to your wp-config.php file and add the following code,
 
-```php
+```apacheconf
 <Files wp-config.php>
 order allow,deny
 deny from all
@@ -127,7 +127,7 @@ deny from all
 
 In a similar method, you will add the following code to your .htaccess file,
 
-```.htacess
+```apacheconf
 <Files .htaccess>
 order allow,deny
 deny from all
