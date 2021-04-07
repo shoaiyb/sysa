@@ -75,7 +75,7 @@ pwa:
 paginate: 5
 paginate_path: /page/:num/
     
-# Other
+# Highlighter
 highlighter: none
  markdown: kramdown
  kramdown:
