@@ -41,6 +41,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
+  - jekyll-mentions
   - jekyll-pwa-plugin
   - jekyll-redirect-from
     
