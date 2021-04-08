@@ -78,7 +78,7 @@ comments: false
     <script src="https://jbt.github.io/markdown-editor/lib/spell-checker.min.js"></script>
     <script src="https://jbt.github.io/markdown-editor/lib/rawinflate.js"></script>
     <script src="https://jbt.github.io/markdown-editor/lib/rawdeflate.js"></script>
-    <script src = "https://jbt.github.io/markdown-editor/lib/sweetalert.min.js"></script>
+    <script src="https://jbt.github.io/markdown-editor/lib/sweetalert.min.js"></script>
     <script src="https://jbt.github.io/markdown-editor/index.js"></script>
   </body>
 </html>
