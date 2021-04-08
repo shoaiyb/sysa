@@ -7,11 +7,10 @@ comments: false
 ---
 
 
-<&lt;!DOCTYPE html&gt;>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }} | {{ site.title }}</title>
+    <title>Markdown Editor | shoaiyb sysa</title>
     <link rel="icon" type="image/png" href="{{ base.url }}/logo.png">
     <link rel="stylesheet" href="https://jbt.github.io/markdown-editor/lib/material-icons.css">
     <link rel="stylesheet" href="https://jbt.github.io/markdown-editor/lib/base16-light.css">
