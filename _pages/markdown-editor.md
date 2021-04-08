@@ -1,7 +1,7 @@
 ---
 layout: null
 title: "Markdown Editor"
-description: ""
+description: "A simple online markdown editor."
 permalink: /tools/markdown-editor/
 comments: false
 ---
