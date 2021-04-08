@@ -45,7 +45,11 @@ plugins:
   - jekyll-pwa-plugin
   - jekyll-redirect-from
     
-    
+
+# Mentions
+jekyll-mentions:
+  base_url: https://twitter.com
+
 # Archives
 # jekyll-archives:
 #   enabled: []
