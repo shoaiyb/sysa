@@ -7,6 +7,7 @@ image: assets/images/create-jekyll-theme.webp
 imageshadow: true
 category: [ jekyll, develop ]
 toc: true
+published: false
 ---
 
 ## Getting Started
