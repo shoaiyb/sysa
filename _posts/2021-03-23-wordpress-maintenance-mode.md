@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "WordPress Maintenance Mode"
-description: ""
+description: "There are different reasons why you might want to put your site into maintenance mode, Maintenance mode is primarily used to run updates, make changes to design, or fix a security issue, move WordPress site to root, but is not limited to this."
 author: shoaiyb
-image: assets/images/wordpress-maintenance.webp
+image: assets/images/wordpress-maintenance-mode.webp
 imageshadow: true
-featured: true
-category: [ WordPress, Guide ]
+category: [ WordPress, Beginner, Guide ]
 toc: true
 ---
 
@@ -342,9 +341,4 @@ Keep maintenance mode reserved for unavoidable circumstances.
 
 I hope this guide answers all your pressing queries and doubts about maintenance mode.          
 You can bookmark this guide and come back to it when you need to.         
-
-
-
-
-
-
+And make sure you follow me on Twitter @shoaiybsysa and sign up to my newsletter.        
