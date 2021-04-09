@@ -86,18 +86,15 @@ And it often includes other tools and features to make managing your WordPress s
 
 ## What Is the Best WordPress Hosting?
 
-Bluehost     
+<!--Bluehost     
 SiteGround      
 DreamHost      
 WPEngine      
 HostGator      
 Hostinger      
-GreenGeeks      
-
-[Hosting FAQ](#faqs)        
-
+GreenGeeks-->
 The companies below have excellent support teams and solid, reliable service, which is why I recommend them to {{ site.name }} readers.        
-They’ve also agreed to offer our readers exclusive discounts up to 63% off.        
+<!--They’ve also agreed to offer my readers exclusive discounts up to 63% off.-->
 
 ## Bluehost
 
@@ -271,7 +268,4 @@ And if you’re just installing WordPress and growing your business online, be s
 
 And, if you’re looking for ways to [speed up your website](/increase-wordpress-speed/), make sure to take a glance at my list of the [best CDN providers](/best-cdn-providers/) out there.       
 
-And if you like this article, then please [follow me on Twitter](https://twitter.com/shoaiybsysa) and subscribe to my News Letter for more from the {{ site.name }}'s blog.        
-
-
-
+And if you like this article, then please [follow me on Twitter](@shoaiybsysa) and subscribe to my News Letter for more from the {{ site.name }}'s blog.        
