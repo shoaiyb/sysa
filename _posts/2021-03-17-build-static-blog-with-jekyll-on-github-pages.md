@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build Static Blog With Jekyll For Free On Github Pages"
-description: ""
+description: "To understand GitHub, you must first have an understanding of Git."
 author: shoaiyb
 image: assets/images/build-with-jekyll.webp
 imageshadow: true
