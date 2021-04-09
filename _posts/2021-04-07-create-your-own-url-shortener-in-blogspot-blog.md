@@ -3,7 +3,7 @@ layout: post
 title: "Create Your Own Url Shortener In BlogSpot Blog"
 description: "Today in this article I will show you how to make your own URL shortener using only JavaScript in Blogger (blogspot)."
 author: shoaiyb
-image: assets/images/blogger-url-shortener.webp
+image: assets/images/bloggerjs.webp
 imageshadow: true
 categories: [ Blogspot, JavaScript ]
 toc: true
