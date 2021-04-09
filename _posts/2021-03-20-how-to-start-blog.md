@@ -3,9 +3,8 @@ layout: post
 title: "Instructions to Begin an Effective Blog in 2022"
 description: "There many different blogging platforms that you can choose from some are more flexible and easier to use, while some are more limited and come with a higher learning curve."
 author: shoaiyb
-image: assets/images/start-blog.png
+image: assets/images/start-blog.webp
 imageshadow: true
-featured: true
 category: [ WordPress, Blogging, Guide, Beginner ]
 toc: true
 ---
@@ -31,7 +30,7 @@ But still if you're just a beginner and wanted to [start with free blogging](/st
 ## Which blogging platform should you choose
 There many different blogging platforms that you can choose from.       
 Some are more flexible and easier to use, while some are more limited and come with a higher learning curve.         
-Most recent statistics show that WordPress which is a free (open-source) blog platform is the most commonly used blogging platform in 2021. I’ve also compiled a list of [top blogging platforms in 2021](/top-blogging-platforms/).       
+Most recent statistics show that WordPress which is a free (open-source) blog platform is the most commonly used blogging platform in 2021. I’ve also compiled a list of [top blogging platforms in 2021](/best-blogging-platforms/).       
 
 ![statistics](/assets/images/statistics.webp)      
 
@@ -54,7 +53,7 @@ Domain names can’t be refunded, but they will simply expire and become availab
 I recommend going with the self-hosted route because it’s much more flexible and you can start growing and creating your blog from day one.       
 
 ## Set Up Your Blog Through Web Hosting (and Register Domain Name
-To get started with a self-hosted WordPress blog, you’ll be going to need to [buy a domain name](/how-to-buy-domain/) and [choose a WordPress web hosting](/best-wordpress-host/).       
+To get started with a self-hosted WordPress blog, you’ll be going to need to [buy a domain name](/buy-domain-name/) and [choose a WordPress web hosting](/best-wordpress-hosting/).       
 
 From Bluehost, you will get (account gets activated instantly):       
 
@@ -202,5 +201,4 @@ Wasn’t so difficult, was it?
 Keep in mind that every blog you create with WordPress is different.        
 You can always change WordPress themes or even buy premium ones to really make your blog look professional and unique.       
 
-
-
+If this post really help you please make sure to follow me on Twitter @shoaiybsysa and sign up to my newsletter.         
