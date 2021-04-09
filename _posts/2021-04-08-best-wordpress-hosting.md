@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best WordPress Hosting"
-description: ""
+description: "Are you launching a new site and looking for the best WordPress hosting company? So in this guide, we’ll discuss how to choose the best WordPress hosting service."
 author: shoaiyb
 image: assets/images/best-wordpress-hosting.webp
 imageshadow: true
