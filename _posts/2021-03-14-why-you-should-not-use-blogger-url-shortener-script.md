@@ -7,6 +7,7 @@ image: assets/images/bloggerjs.webp
 imageshadow: true
 toc: true
 category: [ blogger, javascript ]
+published: false
 ---
 
 # What is Blogger url shortener?
