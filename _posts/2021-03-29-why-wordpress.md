@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Why WordPress
-description: ""
+title: "Why You Should Use WordPress"
+description: "Roughly 40.6% of all websites on the Internet use WordPress and here’s why you should use WordPress."
 author: shoaiyb
-image: assets/images/why-wordpress.jpg
+image: assets/images/why-wordpress.webp
 imageshadow: true
-category: [ WordPress ]
+category: [ WordPress, Beginner ]
 toc: true
 --- 
 
