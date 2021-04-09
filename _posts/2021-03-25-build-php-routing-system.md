@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Building A PHP Routing System
+title: "Building A PHP Routing System"
 description: "Routing is the process of parsing a URI and determining the appropriate action to take."
 author: shoaiyb
-image: assets/images/php-routing.jpg
+image: assets/images/php-routing-system.webp
 imageshadow: true
-category: [ PHP, DEVELOP ]
+category: [ PHP, Beginner, Develop ]
 toc: true
 ---
 
@@ -17,10 +17,7 @@ toc: true
 Routing is the process of parsing a URI and determining the appropriate action to take.          
 
 For example, consider the following URI:         
-
-```url
-http://example.com/login
-```
+`http://example.com/login`
 
 How does a request like the one above result in a response to the user?          
 Let’s break it down:         
@@ -157,4 +154,4 @@ $router->run();
 ## Conclusion
 I’ve touched on the very basics of routing, shared some routing examples from the PHP world, and built a extremely simple router.          
 
-One last thing, be sure to signup for my newsletter! Each week I’ll send you a great email filled with updates, great links, tips & tricks, and other non-dev randomness.         
+One last thing, be sure to signup for my newsletter! Each month I’ll send you a great email filled with updates, great links, tips & tricks, and other non-dev randomness.         
