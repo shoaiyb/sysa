@@ -5,10 +5,9 @@ description: "Are you looking to register a domain name, but don’t know where 
 author: shoaiyb
 image: assets/images/buy-domain.webp
 imageshadow: true
-categories: [ Domain ]
+categories: [ Domain, Beginner ]
 toc: true
 ---
-
 
 
 
