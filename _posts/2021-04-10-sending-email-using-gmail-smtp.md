@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sending Emails Using Gmail SMTP"
-description: ""
+description: "It is possible to add any ImprovMX alias as a sending email on Gmail, Free and reliable. It only takes a minute to setup."
 author: shoaiyb
 image: assets/images/gmail-smtp.webp
 imageshadow: true
