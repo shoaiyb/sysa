@@ -7,7 +7,6 @@ image: assets/images/gmail-smtp.webp
 imageshadow: true
 categories: [ Beginner, Guide ]
 toc: true
-published: false
 ---
 
 
@@ -26,7 +25,7 @@ For this method to work, you need to have two factor authentification enabled fo
 
 ## Create an App Password
 
-![app password](/assets/images/app-password.gif)      
+![app password](/assets/images/app-password-google.gif)      
 
 Google will verify your ownership with this app password. Select “Mail” under app, and “Mac” under device. Hit “Generate”. Copy and keep for later!
 
@@ -35,13 +34,13 @@ Go to Gmail -> Settings -> Accounts and Import. Then, select “Add another emai
 
 ## Fill in your sender’s information
 
-![sender info](/assets/images/sender-info.gif)       
+![sender info](/assets/images/smtp-sender-info-gmail.gif)       
 
 Set your forwarded email (your alias) and your sender’s name. Untick “treat as an alias”.
 
 ## Fill in your email informations
 
-![email info](/assets/images/email-info.gif)       
+![email info](/assets/images/smtp-gmail.gif)       
 
 SMTP is smtp.gmail.com, port is right already.
 Username is your gmail address (incl. @gmail.com)
