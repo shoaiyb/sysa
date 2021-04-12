@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Instructions to Begin an Effective Blog in 2022"
+title: "Instructions To Begin An Effective Blog In 2022"
 description: "There many different blogging platforms that you can choose from some are more flexible and easier to use, while some are more limited and come with a higher learning curve."
 author: shoaiyb
 image: assets/images/start-blog.webp
 imageshadow: true
-category: [ WordPress, Blogging, Guide, Beginner ]
+categories: [ WordPress, Blogging, Guide, Beginner ]
 toc: true
 ---
 
