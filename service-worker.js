@@ -29,7 +29,7 @@ workbox.routing.registerRoute(
 
 // use `CacheFirst` strategy for images
 workbox.routing.registerRoute(
-    /assets\/(img|icons)/,
+    /assets\/(images|icons)/,
     new workbox.strategies.CacheFirst()
 );
 
