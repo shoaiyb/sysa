@@ -222,7 +222,7 @@ deny from all
 						<amp-img class="jc ld amp-wp-enforced-sizes" src="https://www.gravatar.com/avatar/811ff8ad49ea8211408f775e1d941851?s=250&amp;d=mm&amp;r=x" alt="sysa" width="70" height="70" layout="fixed"><noscript><img class="jc ld" src="https://www.gravatar.com/avatar/811ff8ad49ea8211408f775e1d941851?s=250&amp;d=mm&amp;r=x" alt="sysa" width="70" height="70"></noscript></amp-img>
 					</div>
 					<div class="r">
-						<a target="_blank" class="zb l" href="https://sysa.ml/about/" rel="noopener noreferrer">About sysa</a> <a target="_blank" href="https://twitter.com/shoaiybsysa" class="x" rel="noopener noreferrer"><i class=""></i></a>
+						<a target="_blank" class="zb l" href="https://sysa.ml/about/" rel="noopener noreferrer">About sysa</a> <a target="_blank" href="https://twitter.com/shoaiybsysa" class="x" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
 						<span class="yc ib qb">I'm shoaiyb sysa part time developer, blogger and a youtuber, I'm self taught backend and frontend developer, I'm here just to welcome and help those newbies on how they're going to get started in this online world.</span>
 					</div>
 				</div>
@@ -240,22 +240,22 @@ deny from all
 					<ul>
 						<li class="pb ob">
 							<a target="_blank" href="https://twitter.com/intent/tweet?text=Improve%20WordPress%20Site%20Security&amp;url=http://sysa.ml/improve-wordpress-site-security/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fab fa-twitter"></i>
 							</a>
 						</li>
 						<li class="pb ob">
 							<a target="_blank" href="https://facebook.com/sharer.php?u=http://sysa.ml/improve-wordpress-site-security/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fab fa-facebook-f"></i>
 							</a>
 						</li>
 						<li class="pb ob">
-							<a>
-								<i class=""></i>
+							<a target="_blank" href="mailto:?subject=Improve WordPress Site Security&amp;body=http://sysa.ml/improve-wordpress-site-security/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+								<i class="fa fa-paper-plane"></i>
 							</a>
 						</li>
 						<li class="pb ob">
 							<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://sysa.ml/improve-wordpress-site-security/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fab fa-linkedin-in"></i>
 							</a>
 						</li>
 
