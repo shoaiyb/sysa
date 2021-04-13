@@ -2,8 +2,8 @@
 layout: null
 permalink: /amp/why-wordpress/
 ---
-<!doctype html>
-<html lang="en" amp="">
+
+<html ⚡ lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
