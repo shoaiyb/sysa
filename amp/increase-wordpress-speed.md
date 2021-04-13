@@ -232,7 +232,7 @@ permalink: /amp/increase-wordpress-speed/
 							</a>
 						</li>
 						<li class="pb ob">
-							<a target="_blank" href="mailto:?subject=Improve WordPress Site Security&amp;body=http://sysa.ml/improve-wordpress-site-security/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+							<a target="_blank" href="mailto:?subject=Increase WordPress Speed&amp;body=http://sysa.ml/increase-wordpress-speed/" onclick="window.open(this.href, 'width=550,height=435');return false;">
 								<i class="fa fa-paper-plane"></i>
 							</a>
 						</li>
