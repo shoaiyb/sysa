@@ -23,8 +23,16 @@ authors:
     web: https://sysa.ml/about/
     twitter: https://twitter.com/shoaiybsysa
     description: "I'm shoaiyb sysa part time developer, blogger and a youtuber, I'm self taught backend and frontend developer, I'm here just to welcome and help those newbies on how they're going to get started in this online world."
- 
- 
+# john:
+#   name: john doe
+#   display_name: john
+#   gravatar: 2992939e99393oei393292oeoo3oe3
+#   email: mail@john.doe
+#   web: /
+#   twitter: https://twitter.com/
+#   description: "I'm john doe"
+
+
 # Plugins
 plugins:
   - jekyll-paginate
