@@ -1,5 +1,4 @@
 ---
-layout: null
 permalink: /amp/why-wordpress/
 ---
 <!doctype html>
