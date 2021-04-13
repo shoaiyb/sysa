@@ -342,22 +342,22 @@ permalink: /amp/best-blogging-platforms/
 					<ul>
 						<li class="gb fb">
 							<a target="_blank" href="https://twitter.com/intent/tweet?text=Best%20Blogging%20Platforms&amp;url=http://sysa.ml/best-blogging-platforms/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fab fa-twitter"></i>
 							</a>
 						</li>
 						<li class="gb fb">
 							<a target="_blank" href="https://facebook.com/sharer.php?u=http://sysa.ml/best-blogging-platforms/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fab fa-facebook-f"></i>
 							</a>
 						</li>
 						<li class="gb fb">
-							<a>
-								<i class=""></i>
+							<a target="_blank" href="mailto:?subject=Best Blogging Platforms&amp;body=http://sysa.ml/best-blogging-platforms/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+								<i class="fa fa-paper-plane"></i>
 							</a>
 						</li>
 						<li class="gb fb">
 							<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://sysa.ml/best-blogging-platforms/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fab fa-linkedin-in"></i>
 							</a>
 						</li>
 
