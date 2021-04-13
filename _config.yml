@@ -17,12 +17,13 @@ formspree: xknpaeab
 authors:
   shoaiyb:
     name: shoaiyb sysa
-    dispay_name: sysa
+    display_name: sysa
     gravatar: 811ff8ad49ea8211408f775e1d941851
     email: contact@sysa.ml
     web: https://sysa.ml/about/
     twitter: https://twitter.com/shoaiybsysa
     description: "I'm shoaiyb sysa part time developer, blogger and a youtuber, I'm self taught backend and frontend developer, I'm here just to welcome and help those newbies on how they're going to get started in this online world."
+
 # john:
 #   name: john doe
 #   display_name: john
