@@ -111,7 +111,7 @@ permalink: /amp/why-wordpress/
 						</div>
 						<div>
 							Written by
-							<a target="_blank" class="qb" href="https://sysa.ml/about/" rel="noopener noreferrer"></a> on
+							<a target="_blank" class="qb" href="https://sysa.ml/about/" rel="noopener noreferrer">sysa</a> on
 							<span class="bc"><time class="bc" datetime="2021-03-29">29 Mar 2021</time></span>
 						</div>
 					</div>
