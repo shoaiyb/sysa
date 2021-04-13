@@ -1,5 +1,5 @@
 ---
-layout: amp
+layout: page
 permalink: /amp/hi/
 ---
 
