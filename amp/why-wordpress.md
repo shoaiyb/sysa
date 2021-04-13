@@ -1,4 +1,7 @@
-<!doctype html>
+---
+layout: amp
+permalink: /amp/why-wordpress/
+---
 <html ⚡ lang="en">
 <head>
 	<meta charset="utf-8">
