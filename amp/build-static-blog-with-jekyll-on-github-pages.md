@@ -238,7 +238,7 @@ permalink: /amp/build-static-blog-with-jekyll-on-github-pages/
 						</li>
 						<li class="gb fb">
 							<a target="_blank" href="https://facebook.com/sharer.php?u=http://sysa.ml/build-static-blog-with-jekyll-on-github-pages/" rel="noopener noreferrer">
-								<i class="fan fa-facebook-f"></i>
+								<i class="fab fa-facebook-f"></i>
 							</a>
 						</li>
 						<li class="gb fb">
