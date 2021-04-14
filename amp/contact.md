@@ -102,7 +102,7 @@ permalink: /amp/contact/
 				<div class="gb">
 
 
-					<form method="POST" action-xhr="https://formspree.io/f/xknpaeab">
+					<form method="POST" action-xhr="https://formspree.io/f/xknpaeab" target="_top">
 						<p class="s">Please send your message to me, shoaiyb sysa. I will reply as soon as possible!</p>
 						<div class="i e">
 							<div class="f">
