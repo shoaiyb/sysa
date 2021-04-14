@@ -215,7 +215,7 @@ permalink: /amp/build-static-blog-with-jekyll-on-github-pages/
 						<amp-img class="ac zc amp-wp-enforced-sizes" src="https://www.gravatar.com/avatar/811ff8ad49ea8211408f775e1d941851?s=250&amp;d=mm&amp;r=x" alt="sysa" width="70" height="70" layout="fixed"><noscript><img class="ac zc" src="https://www.gravatar.com/avatar/811ff8ad49ea8211408f775e1d941851?s=250&amp;d=mm&amp;r=x" alt="sysa" width="70" height="70"></noscript></amp-img>
 					</div>
 					<div class="i">
-						<a target="_blank" class="qb c" href="https://sysa.ml/about/" rel="noopener noreferrer">About sysa</a> <a target="_blank" href="https://twitter.com/shoaiybsysa" class="o" rel="noopener noreferrer"><i class=""></i></a>
+						<a target="_blank" class="qb c" href="https://sysa.ml/about/" rel="noopener noreferrer">About sysa</a> <a target="_blank" href="https://twitter.com/shoaiybsysa" class="o" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
 						<span class="pc z hb">I'm shoaiyb sysa part time developer, blogger and a youtuber, I'm self taught backend and frontend developer, I'm here just to welcome and help those newbies on how they're going to get started in this online world.</span>
 					</div>
 				</div>
@@ -233,22 +233,22 @@ permalink: /amp/build-static-blog-with-jekyll-on-github-pages/
 					<ul>
 						<li class="gb fb">
 							<a target="_blank" href="https://twitter.com/intent/tweet?text=Build%20Static%20Blog%20With%20Jekyll%20For%20Free%20On%20Github%20Pages&amp;url=http://sysa.ml/build-static-blog-with-jekyll-on-github-pages/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fab fa-twitter"></i>
 							</a>
 						</li>
 						<li class="gb fb">
 							<a target="_blank" href="https://facebook.com/sharer.php?u=http://sysa.ml/build-static-blog-with-jekyll-on-github-pages/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fan fa-facebook-f"></i>
 							</a>
 						</li>
 						<li class="gb fb">
-							<a>
-								<i class=""></i>
+							<a target="_blank" href="mailto:?subject=Build Static Blog With Jekyll For Free On Github Pages&amp;body=http://sysa.ml/build-static-blog-with-jekyll-on-github-pages/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+								<i class="fa fa-paper-plane"></i>
 							</a>
 						</li>
 						<li class="gb fb">
 							<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://sysa.ml/build-static-blog-with-jekyll-on-github-pages/" rel="noopener noreferrer">
-								<i class=""></i>
+								<i class="fab fa-linkedin-in"></i>
 							</a>
 						</li>
 
