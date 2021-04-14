@@ -102,7 +102,7 @@ permalink: /amp/contact/
 				<div class="gb">
 
 
-					<form method="POST" action="https://formspree.io/f/xknpaeab">
+					<form method="POST" action-xhr="https://formspree.io/f/xknpaeab">
 						<p class="s">Please send your message to me, shoaiyb sysa. I will reply as soon as possible!</p>
 						<div class="i e">
 							<div class="f">
@@ -122,7 +122,7 @@ permalink: /amp/contact/
 
 			<div class="bb u">
 				<span class="c"><amp-img src="https://sysa.ml/assets/images/logo.svg" class="cb amp-wp-enforced-sizes" alt="shoaiyb sysa" width="50" height="50" layout="fixed"><noscript><img src="https://sysa.ml/assets/images/logo.svg" class="cb" alt="shoaiyb sysa" width="50" height="50"></noscript></amp-img>   Never miss a new <b>post</b>, subscribe to my newsletter</span>
-				<form method="post" name="mc-embedded-subscribe-form" class="" target="_blank" novalidate="" action-xhr="https://sysa.us1.list-manage.com/subscribe/post?u=470d027d272e559f32772d979&amp;id=f08439ffdc&amp;_wp_amp_action_xhr_converted=1">
+				<form method="post" name="mc-embedded-subscribe-form" class="" target="_blank" novalidate="" action-xhr="https://sysa.us1.list-manage.com/subscribe/post?u=470d027d272e559f32772d979&amp;id=f08439ffdc">
 					<div class="db o">
 						<input type="email" placeholder="Your e-mail" name="EMAIL" class="eb mb ob" id="f" autocomplete="on" required=""><input type="submit" value="Subscribe" name="subscribe" class="a b fb nb"></div>
 					<div submit-error=""><template type="amp-mustache"><p style="padding: 1.5rem; direction: ltr; color: #F44336; clear: both;">Unable to submit Form</p></template></div>
