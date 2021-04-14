@@ -273,22 +273,22 @@ permalink: /amp/how-to-start-blog/
 				<div class="nc">
 					<button class="o p">Load Comments</button>
 					<amp-iframe
-    width=600 height=140
-    src="https://shoaiyb.disqus.com/embed.js"
-    layout="responsive"
-    sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
-    resizable
->
-    <div
-        aria-label="Load more"
-        role=button
-        tabindex=0
-        overflow
-        style="display:block;font-size:12px;font-weight:500;font-family:Helvetica Neue, arial, sans-serif;text-align:center;line-height:1.1;padding:12px 16px;border-radius:4px;background:rgba(29,47,58,0.6);color:rgb(255,255,255)"
-    >
-        Load more
-    </div>
-</amp-iframe>
+                                           width=600 height=140
+                                           src="https://sysa.ml/assets/js/disqus"
+                                           layout="responsive"
+                                           sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
+                                           resizable
+                                         >
+                                 <div
+                                    aria-label="Load more"
+                                    role=button
+                                    tabindex=0
+                                    overflow
+                                    style="display:block;font-size:12px;font-weight:500;font-family:Helvetica Neue, arial,sans-serif;text-align:center;line-height:1.1;padding:12px 16px;border-radius:4px;background:rgba(29,47,58,0.6);color:rgb(255,255,255)"
+                                 >
+                                    Load more
+                                    </div>
+                                    </amp-iframe>
 					<div id="c" class="fd"></div>
 				</div>
 
