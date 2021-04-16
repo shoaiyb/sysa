@@ -13,6 +13,11 @@ permalink: /:title/
 email: contact@sysa.ml
 formspree: xknpaeab
 
+# Additional Contents
+cookie-notice: ""
+notification-notice: ""
+ramadan-notice: "Welcome the month of Ramadan with a heart filled with peace, harmony and joy. May the divine blessings of Allah protect and guide you."
+
 # Authors
 authors:
   shoaiyb:
