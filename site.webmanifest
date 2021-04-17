@@ -25,13 +25,13 @@
     "short_name": "WP",
     "description": "Get WordPress free tutorials",
     "url": "/categories/#WordPress",
-    "icons": [{ "src": "/assets/images/wordpress.png", "sizes": "192x192" }]
+    "icons": [{ "src": "/assets/images/wordpress.jpg", "sizes": "192x192" }]
    },
   {
-    "name": "How's weather tomorrow?",
-    "short_name": "Tomorrow",
-    "description": "View weather information for tomorrow",
-    "url": "/tomorrow?source=pwa",
+    "name": "Contact Me",
+    "short_name": "Contact",
+    "description": "Contact me",
+    "url": "/contact/",
     "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
    }
   ],
