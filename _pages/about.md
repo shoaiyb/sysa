@@ -12,7 +12,7 @@ redirect_from:
   - /shoaiybsysa/
   - /shoaiyb sysa
   - /shoaiyb sysa/
-description: "Get to know more about shoaiyb sysa."
+description: "Get to know more about me shoaiyb sysa."
 permalink: /about/
 comments: false
 toc: true
@@ -25,15 +25,15 @@ With what should I get started?
 Mhh... I think I'll start with my name,    
 Well, my name is **shoaiyb sysa**,     
 I'm 17 years old, Yes 17 years old.     
-I'm the youngest in our family,      
+I'm the youngest in my family,      
 I mostly like to play football but sometimes I play tv games,       
 I started to blog since when I was 13, At that time I've being so angry by everything I know it's possible but I can't archive it.      
 After being sucked in the blogging world, At 15 I move to YouTube, And finally I found out my self stuck in the web development world.     
 
 
 ## What Am I Doing Now?
-As I said I'm a developer now, I'm always playing with some code editors,    
-And sometimes searching something very important as a developer.   
+As I said I'm a developer now, I'm always playing with some code editors,      
+And sometimes searching something very important as a developer.     
 
 
 ## What I've Archived?
