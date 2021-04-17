@@ -1,17 +1,17 @@
 ---
-layout: null
+layout: amp
 title: "Markdown Editor"
 description: "A simple online markdown editor."
 permalink: /tools/markdown-editor/
 comments: false
 ---
-
-
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <title>Markdown Editor | shoaiyb sysa</title>
-    <link rel="icon" type="image/png" href="{{ base.url }}/logo.png">
+    <meta name="title" content="Markdown Editor | shoaiyb sysa">
+    <meta name="description" content="A simple online Markdown Editor by shoaiyb sysa">
+    <link rel="icon" type="image/png" href="{{ base.url }}/assets/images/logo.png">
     <link rel="stylesheet" href="https://jbt.github.io/markdown-editor/lib/material-icons.css">
     <link rel="stylesheet" href="https://jbt.github.io/markdown-editor/lib/base16-light.css">
     <link rel="stylesheet" href="https://jbt.github.io/markdown-editor/codemirror/lib/codemirror.css">
