@@ -18,5 +18,34 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "url": "https://sysa.ml",
-  "manifestUrl": "https://sysa.ml/site.webmanifest"
+  "description": "Get free blogging ideas, tips & tricks, And learn how to develop some simple scripts as a beginner.",
+  "manifestUrl": "https://sysa.ml/site.webmanifest",
+  "shortcuts": [
+    {
+      "name": "Tools",
+      "short_name": "Tools",
+      "description": "Tools",
+      "url": "/tools/?source=pwa",
+      "icons": [{ "src": "/images/tools.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "WordPress",
+      "short_name": "WP",
+      "description": "Get free WordPress tips and tutorials",
+      "url": "/categories/#WordPress?source=pwa",
+      "icons": [{ "src": "/images/wordpress.png", "sizes": "192x192" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/sysa.ml.screenshot.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "/images/sysa.ml.screenshot.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720"
+    }
+  ]
 }
