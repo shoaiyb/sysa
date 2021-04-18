@@ -25,25 +25,46 @@
       "name": "Tools",
       "short_name": "Tools",
       "description": "Tools",
-      "url": "/tools/?source=pwa",
-      "icons": [{ "src": "/images/tools.png", "sizes": "192x192" }]
+      "url": "/tools/",
+      "icons": [{ "src": "/assets/images/tools.png", "sizes": "192x192" }]
     },
     {
       "name": "WordPress",
       "short_name": "WP",
       "description": "Get free WordPress tips and tutorials",
-      "url": "/categories/#WordPress?source=pwa",
-      "icons": [{ "src": "/images/wordpress.png", "sizes": "192x192" }]
+      "url": "/categories/#WordPress",
+      "icons": [{ "src": "/assets/images/wordpress.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Web Develop",
+      "short_name": "Develop",
+      "description": "Learn to develop some simple scripts as a beginner",
+      "url": "/categories/#Develop",
+      "icons": [{ "src": "/assets/images/develop.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Contact Me",
+      "short_name": "Contact",
+      "description": "Contact me shoaiyb sysa",
+      "url": "/contact/",
+      "icons": [{ "src": "/assets/images/contact.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Privacy Policy",
+      "short_name": "Policy",
+      "description": "Privacy policy for shoaiyb sysa",
+      "url": "/policy/",
+      "icons": [{ "src": "/assets/images/policy.png", "sizes": "192x192" }]
     }
   ],
   "screenshots": [
     {
-      "src": "/images/sysa.ml.screenshot.png",
+      "src": "/assets/images/sysa.ml.screenshot.png",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "/images/sysa.ml.screenshot.jpg",
+      "src": "/assets/images/sysa.ml.screenshot.jpg",
       "type": "image/jpg",
       "sizes": "540x720"
     }
