@@ -18,22 +18,4 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "url": "https://sysa.ml",
-  "manifestUrl": "https://sysa.ml/site.webmanifest",
-  "shortcuts": [
-  {
-    "name": "WordPress",
-    "short_name": "WP",
-    "description": "Get WordPress free tutorials",
-    "url": "/categories/#WordPress",
-    "icons": [{ "src": "/assets/images/wordpress.jpg", "sizes": "192x192" }]
-   },
-  {
-    "name": "Contact Me",
-    "short_name": "Contact",
-    "description": "Contact me",
-    "url": "/contact/",
-    "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
-   }
-  ],
-  "description": "Get free blogging ideas, tips & tricks, And learn how to develop some simple scripts as a beginner."
-  "screenshots": []
+  "manifestUrl": "https://sysa.ml/site.webmanifest"
