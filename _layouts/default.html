@@ -146,5 +146,10 @@ ga('send', 'pageview');
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
+{% if site.instantclick == "enabled" %}
+<script src="{{ site.baseurl }}/assets/js/instantclick.min.js" data-no-instant></script>
+<script data-no-instant>InstantClick.init();</script>
+{% endif %}
+
 </body>
 </html>
