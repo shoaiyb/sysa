@@ -76,4 +76,14 @@ The Simple, Stable Localhost Tunnel to expose localhost to the internet using a 
 - $4.99/month on the Monthly plan.      
 
 
-## Serveo
+## PageKite
+
+![PageKite](/assets/images/pagekite.webp)       
+
+**Features**:     
+- The ability to use CNAMEs from your own domain.
+- 
+**Pricing**:      
+- Free for 31 days & 2.5GB
+- Pay What You Want
+
