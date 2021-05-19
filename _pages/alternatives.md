@@ -1,6 +1,9 @@
 ---
 layout: page
-permalink: /:page/alternatives/
+permalink: /alternatives/
 title: "Alternatives"
-description: "Alternatives to {{page.title}}"
+description: "Alternatives to?"
+image: assets/images/alternatives.webp
+imageshadow: true
+comments: false
 --- 
