@@ -3,7 +3,7 @@ layout: post
 title: "Best Ngrok Alternatives"
 description: ""
 author: shoaiyb
-image: assets/images/ngrok.webp
+image: assets/images/ngrok.svg
 imageshadow: true
 categories: [ Ngrok, Alternatives, Beginner, Guide ]
 tags: [ Ngrok, Alternatives ]
