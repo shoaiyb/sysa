@@ -15,8 +15,7 @@ formspree: xknpaeab
 
 # Additional Contents
 cookie-notice: ""
-notification-notice: ""
-ramadan-notice: "Welcome the month of Ramadan with a heart filled with peace, harmony and joy. May the divine blessings of Allah protect and guide you."
+announcement: "Welcome the month of Ramadan with a heart filled with peace, harmony and joy. May the divine blessings of Allah protect and guide you."
 
 # Authors
 authors:
@@ -67,31 +66,17 @@ jekyll-mentions:
 #     tag: '/tag/:name/'
 #     category: '/category/:name/'
 
-# PWA
-pwa:
-  enabled: true # Optional
-  sw_src_filepath: service-worker.js # Optional
-  sw_dest_filename: service-worker.js # Optional
-  dest_js_directory: assets/js # Required
-  precache_recent_posts_num: 5 # Optional
-  precache_glob_directory: / # Optional
-  precache_glob_patterns: # Optional
-    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
-    - index.html
-  precache_glob_ignores: # Optional
-    - sw-register.js
-    - "assets/fonts/**/*"
     
 # Pagination 
 paginate: 5
 paginate_path: /page/:num/
     
 # Highlighter
-# highlighter: none
-#  markdown: kramdown
-#   kramdown:
-#     syntax_highlighter_opts:
-#     disable : true
+highlighter: none
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
@@ -103,6 +88,9 @@ lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
 authorbox: "enabled"
+
+# InstantClick
+instantclick: "disabled"
 
 # Sass
 sass:
