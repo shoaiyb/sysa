@@ -97,4 +97,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-exclude: [LICENSE, Gemfile, Gemfile.lock, readme.md]
+exclude: [LICENSE, CNAME, Gemfile, Gemfile.lock, readme.md]
