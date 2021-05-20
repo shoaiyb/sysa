@@ -3,9 +3,7 @@ layout: null
 permalink: /feed/
 redirect_from:
     - /rss
-    - /feed
     - /rss/
-    - /feed/
     - /rss.xml
     - /feed.xml
 ---
