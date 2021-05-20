@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# Date: Thu May 20 2021
+
+CACHE:
+# Cache Everything
+index.html
+*
+
+# CloudFlare cdn-cgi
+# https://sysa.ml/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6525432fea7f2056
+# https://sysa.ml/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6525432fea7f2056
+# https://sysa.ml/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=6525432fea7f2056
+# https://sysa.ml/cdn-cgi/challenge-platform/h/g/flow/ov1/0.4917623081200547:1621508441:ec1126b3af5f22926e6940cd4420f8cf1f4f2b3c3d7ff8b43f13c246fbd7b1db/6525432fea7f2056/bf3ccf51d6e3305
+
+# Fallback
+FALLBACK:
+/ /offline.html
+assets/images/ assets/images/offline.jpg
+
+# Network
+# NETWORK:
+# *
