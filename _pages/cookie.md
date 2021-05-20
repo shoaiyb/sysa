@@ -14,6 +14,7 @@ permalink: /cookie/
         <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button>
       </div>
       <div class="modal-body">
+        {{site.title}} use's cookie 🍪 for best performance
         <ul class="mb-0">
         </ul>
       </div>
