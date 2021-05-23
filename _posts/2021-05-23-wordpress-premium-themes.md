@@ -22,6 +22,22 @@ The WordPress themes that have made it into this collection all feature high-qua
 
 These are the most popular premium WordPress themes for a reason, and whichever one you choose, you’ll be well on the way to creating a great website.
 
+## Avada
+
+![avada](/assets/images/avada.webp)       
+
+Avada is the number one, bestselling WordPress theme of all time – at least at the busy ThemeForest marketplace – making it a worthy inclusion in this collection of the most popular premium WordPress themes.
+
+Avada is packed with settings and options, making it a great choice for those who have a strong vision for their project and want to apply it to their WordPress website. As well as the detailed theme options control panel, Avada provides you with a growing library of pre-built demos.
+
+The Avada website demos cover a range of categories, including photography, agency, gym, business, church, cafe, fashion, travel, ecommerce, and many more types of website. All of the demos and their pages can be customized through the integrated Fusion Builder tool. This bespoke page builder tool makes it easy to create custom page layouts, and then drop a wide range of elements into them.
+
+Some of the elements that you can add to your posts and pages with Avada include alert messages, buttons, flip boxes, full-width sections, pricing tables, sliders, testimonials, and much more. Avada also gives you five header layouts to choose from, ensuring you get the right look and feel for your website.
+
+The distinctly different Avada demos make this a true multipurpose theme that is ready for almost any project, right out of the box.
+
+More Info / Download Demo
+
 ## Soledad
 
 ![soledad](/assets/images/soledad.webp)        
