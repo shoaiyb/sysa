@@ -36,7 +36,8 @@ Some of the elements that you can add to your posts and pages with Avada include
 
 The distinctly different Avada demos make this a true multipurpose theme that is ready for almost any project, right out of the box.
 
-More Info / Download Demo
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>        
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>        
 
 ## Soledad
 
@@ -54,7 +55,8 @@ If you are planning to create an online portfolio with WordPress, the six differ
 
 Soledad has a demo version for every occasion, helping to explain why this is one of the most popular premium WordPress themes of the moment.
 
-More Info / Download Demo
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>       
 
 ## Divi
 
@@ -72,7 +74,8 @@ That’s not all Divi has to offer, though. A recent update saw a split testing 
 
 Divi has been available for a few years now and has been regularly updated and improved since its release. As new features are added and improvements made, Divi keeps getting better and better. This – and its great value price tag – has helped make it a popular choice, which for many, is the best WordPress theme you can buy.
 
-More Info / Download Demo
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>      
 
 ## Newspaper
 
@@ -88,7 +91,8 @@ If you want to monetize your website, the Newspaper theme includes an ad managem
 
 Newspaper has a wealth of features that will help you build a professional news and magazine website with WordPress.
 
-More Info / Download Demo
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>        
 
 ## Kalium
 
@@ -106,4 +110,5 @@ The new and improved version of Kalium has also been tweaked to improve load tim
 
 If you want your professional website to have a creative look, Kalium is a theme to add to your shortlist.
 
-More Info / Download Demo
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
+<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>       
