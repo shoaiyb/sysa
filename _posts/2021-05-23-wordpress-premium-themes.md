@@ -148,6 +148,8 @@ To overcome this, the developers of Kalium have reduced the size of the website 
 
 If you want your professional website to have a creative look, Kalium is a theme to add to your shortlist.
 
+<div class="row">
 <a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
 <br />
 <a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>       
+</div>
