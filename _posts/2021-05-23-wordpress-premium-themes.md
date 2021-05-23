@@ -39,9 +39,9 @@ Some of the elements that you can add to your posts and pages with Avada include
 
 The distinctly different Avada demos make this a true multipurpose theme that is ready for almost any project, right out of the box.
 
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>        
+<a href="https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>        
 <br />
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>        
+<a href="https://themeforest.net/item/avada-responsive-multipurpose-theme/full_screen_preview/2833226?_ga=2.192239657.2030846550.1621767614-1514217176.1603616314" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>        
 
 ## Soledad
 
@@ -64,9 +64,9 @@ This theme is also a good choice for creating an online shop, thanks to its full
 
 Soledad has a demo version for every occasion, helping to explain why this is one of the most popular premium WordPress themes of the moment.
 
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
+<a href="https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
 <br />
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>       
+<a href="https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/full_screen_preview/12945398?_ga=2.1795575.790768196.1621767806-1514217176.1603616314" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>       
 
 ## Divi
 
@@ -96,9 +96,9 @@ Divi has been available for a few years now and has been regularly updated and i
 As new features are added and improvements made, Divi keeps getting better and better.       
 This – and its great value price tag – has helped make it a popular choice, which for many, is the best WordPress theme you can buy.
 
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
+<a href="https://www.elegantthemes.com/gallery/divi/" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
 <br />
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>      
+<a href="https://www.elegantthemes.com/gallery/divi/?theme=Divi" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>      
 
 ## Newspaper
 
@@ -120,9 +120,9 @@ You also get to work with full-width page layouts, multiple headers, and top bar
 
 Newspaper has a wealth of features that will help you build a professional news and magazine website with WordPress.
 
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
+<a href="https://themeforest.net/item/newspaper/5489609" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
 <br />
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>        
+<a href="https://themeforest.net/item/newspaper/full_screen_preview/5489609?_ga=2.32553078.979003208.1621768068-1514217176.1603616314" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>        
 
 ## Kalium
 
@@ -148,8 +148,6 @@ To overcome this, the developers of Kalium have reduced the size of the website 
 
 If you want your professional website to have a creative look, Kalium is a theme to add to your shortlist.
 
-<div class="row">
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
+<a href="https://themeforest.net/item/kalium-creative-theme-for-professionals/10860525" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">More Info / Download</a>       
 <br />
-<a href="" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>       
-</div>
+<a href="https://themeforest.net/item/kalium-creative-theme-for-professionals/full_screen_preview/10860525?_ga=2.161817020.1622406403.1621768187-1514217176.1603616314" target="_blank" rel="nofollow noreferrer" class="btn btn-dark">Demo</a>       
