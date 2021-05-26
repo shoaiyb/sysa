@@ -168,6 +168,20 @@ Also, while doing the transfer, you are risking SEO. Blogger does allow data exp
 
 ## Comparison table
 
+|                     | WordPress | Blogger |
+| ----------------------------------------- |
+|     Simplicity      | Beginner-friendly with a learning curve | Just a few clicks until your first post |
+| ----------------------------------------- |
+|       Themes        | Tens of thousands of themes | Very limited options, can’t customize templates in detail |
+| ----------------------------------------- |
+|  Content Management | Revisions, autosave, custom HTML… | Much simpler document editor |
+| ----------------------------------------- |
+|      Support        | Community, pay for support | Support forum, basic documentation |
+| ----------------------------------------- |
+|     Portability     | Quickly export and import content, switch hosts and platforms | It’s hard to switch from Blogger to another platform |
+| ----------------------------------------- |
+| Ownership & Control | You own the site with complete control | Google owns it, limited control
+| ----------------------------------------- |
 
 
 ## Final Thoughts
