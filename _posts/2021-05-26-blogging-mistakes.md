@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blogging Mistakes To Avoid"
-description: ""
+description: "At this point, You might know how to start a blog, but you have no idea how to make it productive and prosperous here is a list of mistakes that will ruin your blog and, therefore, you should avoid them."
 author: shoaiyb
 image: assets/images/blogging-mistakes.webp
 imageshadow: true
@@ -12,7 +12,16 @@ toc: true
 
 
 
+At this point, You might know [how to start a blog](/how-to-start-blog/), but you have no idea how to make it productive and prosperous. I see a lot of people jump right in with little preparation and start churning away content with the little useful information that looks generic and boring to read.      
+Content like that would get seen by few people, and get your blog nowhere.
+
+Regardless of whether you are an upcoming entrepreneur and want to use a blog to promote your business or a passionate expert in a niche looking to build a personal brand there are some things that you just don’t do.       
+Here is a list of mistakes that will ruin your blog and, therefore, you should avoid them.
+
 ## Focusing on quantity over quality
+
+![QoQ](/assets/images/qoq.webp)       
+
 That is something that quite a lot of bloggers do.       
 Instead of focusing on providing quality content, they focus on quantity.        
 There are two reasons for making this huge blogging mistake.        
@@ -25,6 +34,9 @@ An excellent blog post requires time for adequate research, not to mention for w
 Only when you make sure to provide quality blog content, will you be able actually to yield positive results.      
 
 ## Failing to work on improving your grammar
+
+![grammar](/assets/images/improve-grammar.webp)      
+
 If you keep providing content filled with grammar mistakes, people will not think of you as a professional.       
 You will paint the picture of a lazy blogger who doesn’t want to make an effort to appeal to and connect with the readers.       
 Grammar mistakes will kill your credibility.     
@@ -32,6 +44,9 @@ Thus, if you are having trouble constructing correct sentences, make sure that y
 You can use tools like Grammarly that would help you improve your writing.
 
 ## Failing to select and focus on the right audience
+
+![right audience](/assets/images/right-audience.webp)      
+
 If you try and write content for everybody, your blog will end up being too generic.      
 That will not bring positive results.       
 You need to understand who your target audience is so that you can focus on tailoring your content to them.       
@@ -39,6 +54,9 @@ That is exactly how you will create a community of people who want to listen to 
 Focusing on a specific demographic will enable you to provide valuable content, relevant, and useful to an audience.
 
 ## Repeating others’ opinions
+
+![opinions](/assets/images/opinions.webp)       
+
 One of the most common blogging mistakes is taking other people’s views and including them in your content as your own.       
 That isn’t plagiarism, but it borders on it.       
 If you want others to take you seriously, you cannot regurgitate others’ opinions – you need to have your own.       
@@ -49,6 +67,9 @@ Nonetheless, the key is to tackle every topic from your perspective.
 That will make you unique and credible, and help you establish yourself as an expert in your niche.
 
 ## Spending too little time sharing your content on social media
+
+![share on social media](/assets/images/social-media.webp)       
+
 No matter the type of your blog, you run it to promote something, be it your business, your art, or anything else that made you want to create one in the first place.        
 To promote your blog and its content, you need to attract customers or followers.       
 What better way of doing that than to establish your presence on social media using social media tools? You need to share your content on the social media networks that preferred by the target audience.      
@@ -58,6 +79,9 @@ You need to be active on social media, but remember not to spam your followers.
 That will only annoy them and push them away.
 
 ## Focusing too much on self-promotion and sales pitches
+
+![self promotion](/assets/images/self-promotion.webp)       
+
 If you pitch every single blog posts and you indulge in too much self-promotion, you will have a tough time selling anything.       
 People will see you as another marketer who doesn’t care about them.      
 But instead, sees them only as sales opportunities.        
@@ -67,6 +91,9 @@ When you provide all that and give them value, you will instill trust, and soone
 Thus, create content that will make a difference, and you can be sure that real sales opportunities will arise.
 
 ## Taking too long to get your content out
+
+![content](/assets/images/content-out.webp)      
+
 Procrastination is the killer of motivation and success.     
 Time is of the essence.       
 The sooner you publish your content, the sooner you can reap the rewards and generate leads.       
@@ -77,6 +104,9 @@ Sometimes, it’s better to hit “publish” and focus on your other tasks and 
 After all, you can always update your posts anytime you want.
 
 ## Not taking the time to guest post on other blogs
+
+![guest post](/assets/images/guest-post.webp)       
+
 Your blog shouldn’t be all alone in the vast sea of blogs.       
 Guest blogging will get you to a whole new world of possibilities.     
 You can build a network of professional bloggers who can help you make a real difference.     
@@ -85,6 +115,9 @@ Not only will you serve them to promote their content, but you will also enjoy f
 If you connect with influential bloggers, it will be a matter of time when you become one of the big guns.
 
 ## Failing to interact with the community
+
+![interact with community](/assets/images/interact-community.webp)        
+
 You cannot ignore your readers and expect positive results.     
 If you keep neglecting them, they will take their trust and loyalty someplace else.       
 If you want to connect with the community you have created, you need to interact with your audience.       
@@ -95,6 +128,9 @@ You never know – seeing things from their perspective may open the door to sig
 Interacting with your community will help you forge strong relationships, and they will feel valued.
 
 ## Failing to set up a coherent content schedule
+
+![content schedule](/assets/images/content-schedule.webp)      
+
 In the world of blogging, consistency is key.      
 If you don’t update your content on a regular basis, you can lose a lot of traffic and quality leads.       
 It can affect your SEO ranking, and your readers may even completely lose interest in your blog.       
