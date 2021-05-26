@@ -90,7 +90,7 @@ lazyimages: "enabled"
 authorbox: "enabled"
 
 # InstantClick
-instantclick: "disabled"
+instantclick: "enabled"
 
 # Sass
 sass:
