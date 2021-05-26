@@ -19,9 +19,9 @@ Regardless of whether you are an upcoming entrepreneur and want to use a blog to
 Here is a list of mistakes that will ruin your blog and, therefore, you should avoid them.
 
 ## Focusing on quantity over quality
-
+<!--
 ![QoQ](/assets/images/qoq.webp)       
-
+-->
 That is something that quite a lot of bloggers do.       
 Instead of focusing on providing quality content, they focus on quantity.        
 There are two reasons for making this huge blogging mistake.        
@@ -45,7 +45,7 @@ You can use tools like Grammarly that would help you improve your writing.
 
 ## Failing to select and focus on the right audience
 
-![right audience](/assets/images/right-audience.webp)      
+![right audience](/assets/images/audience.webp)      
 
 If you try and write content for everybody, your blog will end up being too generic.      
 That will not bring positive results.       
@@ -91,9 +91,9 @@ When you provide all that and give them value, you will instill trust, and soone
 Thus, create content that will make a difference, and you can be sure that real sales opportunities will arise.
 
 ## Taking too long to get your content out
-
+<!--
 ![content](/assets/images/content-out.webp)      
-
+-->
 Procrastination is the killer of motivation and success.     
 Time is of the essence.       
 The sooner you publish your content, the sooner you can reap the rewards and generate leads.       
@@ -104,9 +104,9 @@ Sometimes, it’s better to hit “publish” and focus on your other tasks and 
 After all, you can always update your posts anytime you want.
 
 ## Not taking the time to guest post on other blogs
-
+<!--
 ![guest post](/assets/images/guest-post.webp)       
-
+-->
 Your blog shouldn’t be all alone in the vast sea of blogs.       
 Guest blogging will get you to a whole new world of possibilities.     
 You can build a network of professional bloggers who can help you make a real difference.     
@@ -129,7 +129,7 @@ Interacting with your community will help you forge strong relationships, and th
 
 ## Failing to set up a coherent content schedule
 
-![content schedule](/assets/images/content-schedule.webp)      
+![content schedule](/assets/images/schedule.webp)      
 
 In the world of blogging, consistency is key.      
 If you don’t update your content on a regular basis, you can lose a lot of traffic and quality leads.       
