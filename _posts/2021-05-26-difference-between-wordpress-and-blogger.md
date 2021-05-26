@@ -168,8 +168,8 @@ Also, while doing the transfer, you are risking SEO. Blogger does allow data exp
 
 ## Comparison table
 
-|                     | WordPress | Blogger |
-| ----------------------------------------- |
+|                     |  WordPress  | Blogger |
+| ------------------- | :---------: | ------- |
 |     Simplicity      | Beginner-friendly with a learning curve | Just a few clicks until your first post |
 |       Themes        | Tens of thousands of themes | Very limited options, can’t customize templates in detail |
 |  Content Management | Revisions, autosave, custom HTML… | Much simpler document editor |
