@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Difference Between WordPress and Blogger"
-description: ""
+description: "WordPress and Blogger are definitely among the most popular blogging platforms. So, the question arises, which one should you use for your first blog?"
 author: shoaiyb
 image: assets/images/wordpress-blogger-differences.webp
 imageshadow: true
