@@ -93,7 +93,7 @@ authorbox: "enabled"
 instantclick: "disabled"
 
 # DarkMode.js
-darkmode: "disabled";
+darkmode: "enabled";
 
 # Sass
 sass:
