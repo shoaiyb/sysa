@@ -17,10 +17,9 @@ comments: false
 
 Image To Data URI Convertor. upload image convert data URI
 
-<div class="form-group row">
-<div>Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*">
+<div>Upload Image: <input name="image" type="file" id="choose" accept="image/*">
 <div id="ldimg" style="display: none;">Loading...</div></div>
-<div class="btn-blue">
+<div class="btn btn-dark">
 <a href="#" id="generate"><span><i></i></span>Generate</a>
 </div>
 <div>
@@ -43,7 +42,6 @@ Image To Data URI Convertor. upload image convert data URI
 <input class="btn btn-dark" data-id="code_url" type="button">Select All</input>
 <br />
 <a href="#" id="code-dwnload" class="btn btn-dark">Download</a>
-</div>
 
 
 
