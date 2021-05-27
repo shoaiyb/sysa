@@ -15,9 +15,9 @@ published: false
 
 ## XML Parser
 
-![xml parser](/assets/images/xml-parser.jpg)         
+![xml parser](/assets/images/logo.svg)         
 
-[XML Parser](/tools/xml-parser/)
+<a href="/tools/xml-parser/" class="btn btn-dark">XML Parser</a>
 
 <!--## Amp Checker
 
@@ -40,3 +40,4 @@ Adsense Eligibility Checker-->
 ## Markdown Editor
 
 [![markdown editor](/assets/images/markdown.png)](/tools/markdown-editor/)
+
