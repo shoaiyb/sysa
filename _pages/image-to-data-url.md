@@ -17,7 +17,7 @@ comments: false
 
 Image To Data URI Convertor. upload image convert data URI
 
-
+<div class="form-group row">
 <div>Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*">
 <div id="ldimg" style="display: none;">Loading...</div></div>
 <div class="btn-blue">
@@ -30,7 +30,7 @@ Image To Data URI Convertor. upload image convert data URI
 <a href="#" class="copy_code" data-target="code_html" data-id="html" title="copy code"><i class="fa fa-copy"></i></a>
 </div-->
 <textarea rows="8" class="form-control mb-3" style="height: 13em;" id="code_html" readonly="readonly" aria-label="HTML code"></textarea>
-<button class="code_selectall btn-dark" data-id="code_html" type="button">select all</button>
+<button class="code_selectall btn-dark" data-id="code_html" type="button">Select All</button>
 <!--/div>
 </div-->
 <div rows="8" class="form-control mb-3">URL</div>
@@ -40,10 +40,10 @@ Image To Data URI Convertor. upload image convert data URI
 </div-->
 <!--textarea class="form-control" id="code_url" readonly="readonly" style="height: 13em;" aria-label="HTML Code"></textarea-->
 <textarea rows="8" class="form-control" style="height: 13em;" id="code_url" readonly="readonly" aria-label="HTML Code"></textarea>
-<input class="btn btn-dark" data-id="code_url" style="text-align: center;" type="button">select all</input>
+<input class="btn btn-dark" data-id="code_url" type="button">Select All</input>
 <br />
 <a href="#" id="code-dwnload" class="btn btn-dark">Download</a>
-
+</div>
 
 
 
