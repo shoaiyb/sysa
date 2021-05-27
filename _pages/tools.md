@@ -39,5 +39,7 @@ Adsense Eligibility Checker-->
 
 ## Markdown Editor
 
-[![markdown editor](/assets/images/markdown.png)](/tools/markdown-editor/)
+![markdown editor](/assets/images/markdown.png)       
+
+<a href="/tools/markdown-editor/" class="btn btn-dark">Markdown Editor</a>
 
