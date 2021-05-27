@@ -18,10 +18,10 @@ comments: false
 Image To Data URI Convertor. upload image convert data URI
 
 
-<div class="btn btn-dark">Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*">
+<div>Upload Image: <input name="image" type="file" class="btn btn-dark" id="choose" accept="image/*">
 <div id="ldimg" style="display: none;">Loading...</div></div>
 <div class="btn-blue">
-<a href="#" class="btn blue-btn" id="generate"><span><i class="btn btn-dark"></i></span>Generate</a>
+<a href="#" id="generate"><span><i></i></span>Generate</a>
 </div>
 <div>
 <div rows="8" class="form-control mb-3">HTML</div>
@@ -29,11 +29,11 @@ Image To Data URI Convertor. upload image convert data URI
 <a href="#" class="dwn_code" data-id="html" title="Download code"><i class="fa fa-download"></i></a>
 <a href="#" class="copy_code" data-target="code_html" data-id="html" title="copy code"><i class="fa fa-copy"></i></a>
 </div-->
-<textarea class="form-control mb3" rows="8" class="form-control mb-3" style="height: 13em;" id="code_html" aria-label="HTML code"></textarea>
+<textarea rows="8" class="form-control mb-3" style="height: 13em;" id="code_html" readonly="readonly" aria-label="HTML code"></textarea>
 <button class="code_selectall btn-dark" data-id="code_html" type="button">select all</button>
-</div>
-</div>
-<div class="code-box-code">URL</div>
+<!--/div>
+</div-->
+<div rows="8" class="form-control mb-3">URL</div>
 <!--div>
 <a href="#" class="dwn_code" data-id="link" title="Download code"><i class="fa fa-download"></i></a>
 <a href="#" class="copy_code" data-target="code_url" data-id="link" title="copy code"><i class="fa fa-copy"></i></a>
@@ -41,6 +41,7 @@ Image To Data URI Convertor. upload image convert data URI
 <!--textarea class="form-control" id="code_url" readonly="readonly" style="height: 13em;" aria-label="HTML Code"></textarea-->
 <textarea rows="8" class="form-control" style="height: 13em;" id="code_url" readonly="readonly" aria-label="HTML Code"></textarea>
 <input class="btn btn-dark" data-id="code_url" style="text-align: center;" type="button">select all</input>
+<br />
 <a href="#" id="code-dwnload" class="btn btn-dark">Download</a>
 
 
