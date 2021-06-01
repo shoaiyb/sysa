@@ -75,7 +75,7 @@ In this example no extra CSS and JavaScript files are required, the validation d
 ## Contact Form Plugin Development
 In five minutes, you will learn how to develop a simple WordPress contact form, that’s a promise!
 
-**Ready**? -> **Set**? -> **Go**!
+**Ready**? **Set**? **Go**!
 
 All WordPress pluigns are PHP files, located in the `/wp-content/plugins/` directory.      
 In our example, the file will be called `formtact.php`.      
@@ -129,9 +129,9 @@ Basic validation was added to the form via the pattern input attribute.
 
 The RegEX in the contact form does the following field validation:
 
-- [a-zA-Z0-9 ]: only letters, spaces and numbers allowed in the name field; special symbols are deemed invalid.
+- a-zA-Z0-9: only letters, spaces and numbers allowed in the name field; special symbols are deemed invalid.
 
-- [a-zA-Z ]: only letters and spaces are allowed in the subject field.
+- a-zA-Z: only letters and spaces are allowed in the subject field.
 
 - The `email` form control validates the email field hence there is no need for a pattern attribute.
 
