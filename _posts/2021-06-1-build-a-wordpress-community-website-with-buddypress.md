@@ -7,7 +7,6 @@ image: assets/images/wordpress-buddypress.webp
 imageshadow: true
 categories: [ WordPress, Beginner, Guide ]
 toc: true
-published: false
 ---
 
 
@@ -49,6 +48,18 @@ Let’s find out how!
 There are plenty of plugins that can help you put together a WordPress community website, but my vote has to go to BuddyPress.       
 Not only is it one of the most popular WordPress plugins around, but it also has fantastic documentation and is easy to set up.
 
+<div class="card">
+  <div class="card-body">
+    <div class="card-header">
+      <div class="card-img">
+        <img src="{{ site.baseurl }}/buddypress.webp" alt="BuddyPress" />
+      </div>
+    </div>
+  </div>
+  <div class="card-footer">
+    - card footer
+  </div>
+</div>
 
 Once you’ve installed it, you’re ready to get down to business.      
 Let’s start by configuring the settings:
