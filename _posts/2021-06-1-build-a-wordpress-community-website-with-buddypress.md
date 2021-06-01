@@ -45,7 +45,7 @@ Not only is it one of the most popular WordPress plugins around, but it also has
 
 <div class="card">
     <div class="card-header">
-      <div class="card-title">
+      <div class="card-title text-center">
         <a href="https://buddypress.org/" target="_blank" rel="nofollow noreferrer">BuddyPress</a>
       </div>
       <div class="card-img">
@@ -54,14 +54,17 @@ Not only is it one of the most popular WordPress plugins around, but it also has
     </div>
     <div class="card-body">
     Author(s): <a href="https://buddypress.org/" target="_blank" rel="nofollow norefferer">The BuddyPress Community</a>
+        <br />
     Current Version: 7.3.0
+        <br />
     Last Updated: April 14, 2021
+        <br />
     Download Link: <a href="https://downloads.wordpress.org/plugin/buddypress.7.3.0.zip" target="_blank" rel="nofollow noreferrer">buddypress.7.3.0.zip</a>
     </div>
     <div class="card-footer">
-      | Ratings | Installs | Requires |
-        -------   --------   --------
-      | 84%     | 200,000+ | WP-4.9+  |
+| Ratings | Installs | Requires |
+  -------   --------   --------
+| 84%     | 200,000+ | WP-4.9+  |
     </div>
 </div>
 
