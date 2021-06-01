@@ -45,12 +45,13 @@ The same applies to study groups, and virtually any organization where in-group 
 Fortunately for you, WordPress does enable us to set up these kinds of websites fairly easily, even if the platform wasn’t built with that purpose in mind.      
 Let’s find out how!
 
-## How to build a WordPress community website (in 3 steps)
+## How to build a WordPress community website (in 2 steps)
 There are plenty of plugins that can help you put together a WordPress community website, but my vote has to go to BuddyPress.       
 Not only is it one of the most popular WordPress plugins around, but it also has fantastic documentation and is easy to set up.
 
 
-Once you’ve installed it, you’re ready to get down to business. Let’s start by configuring the settings:
+Once you’ve installed it, you’re ready to get down to business.      
+Let’s start by configuring the settings:
 
 ### Configure BuddyPress
 After you install the plugin, a BuddyPress tab will appear under Settings in your dashboard. Click on it, then go to Options.
@@ -63,7 +64,7 @@ I recommend allowing both, since that will provide members with an incentive to 
 After dealing with those settings, scroll down and you’ll find two more options. One will enable activity stream comments on your regular blog posts – I recommend using this option to provide more opportunities for engagement.      
 You can also make sure new items will appear on the main activity stream without the need for users to reload the page:
 
-![img](/)      
+![activity settings](/assets/images/activity-settings.webp)      
 
 Finally, it’s worth noting that BuddyPress won’t work properly if your WordPress site is using the default permalink structure.        
 That means you need to go into the Settings > Permalinks tab and select a different structure if you haven’t done so yet.      
@@ -74,5 +75,35 @@ Before users can start enjoying your WordPress community website, you need to de
 To do this, return to the Settings tab and click on `BuddyPress > Components`.        
 The following section will display a list of all the components or pages that you can add to your community, including profiles, activity streams, private messages, and so on:
 
+![components](/assets/images/components.webp)       
+
+The decision about which components to include will depend largely on the type of community you want to set up.      
+For example, if you want to provide users with the ability to create private groups, you’ll need to enable the User Groups component.      
+Most of the options available are self-explanatory, but you can always check out BuddyPress’ documentation if you want to find out more about their individual features.
+
+For now, I’d recommend that you enable at least the following basic components:
+
+- Extended profiles:       
+These enable users to include more personal information than WordPress’ default options.
+- Friend connections:      
+Enabling users to establish ‘friendships’ is a crucial component of any community website.
+- Activity stream:    
+This is the page where users will be able to check out all the latest developments in the community.
+- User groups:      
+Users can take advantage of this component to set up public and private groups within your community. This can help keep your site organized if it has many members.
+- BuddyPress core:      
+This is the component that enables all the plugin’s other features – don’t disable this one!
+
+Once you’ve checked off all the components you want and saved your changes, your WordPress community website will be ready to go.       
+Before you wrap up, you may want to set the activity stream as your site’s default homepage, which will ensure that users can see the latest happenings as soon as they log in.       
+
+## Conclusion
+Establishing a community website might seem complicated at first, but – as is usually the case with WordPress – using the right plugin makes it very achievable.      
+This type of site can be useful for organizations that require group members to stay in touch and be aware of new developments, and it will help keep those members active and engaged.
+
+If you’re interested in building a community website using BuddyPress, all you need to do is configure the plugin and enable the pages you want your site to include (following the instructions above).     
+
+
+Do you have any questions about how to set up a WordPress community website? Ask away in the comments section below!
 
 
