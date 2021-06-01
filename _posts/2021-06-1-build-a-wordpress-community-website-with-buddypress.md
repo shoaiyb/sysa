@@ -28,12 +28,7 @@ A community website is a platform primarily intended to enable user interaction.
 It usually provides its members with customizable profile pages, a ‘friending’ feature, and activity streams where users can monitor what’s going on in the community.     
 Many community sites also support their own forums, which enable users to interact with each other and ask questions.      
 
-<figure>
 ![community example](/assets/images/community-example.webp)       
-  <figcaption>
-    A community site enables users to communicate with one another – and with you.
-  </figcaption>
-</figure>
 
 By default, WordPress doesn’t support any of those features, which is a shame because they can be highly engaging.       
 Community websites make it so you don’t have to worry about creating content continuously, since users will entertain themselves by chatting with each other. Furthermore, these types of websites can be quite addictive since they’re modeled after social media.
@@ -49,16 +44,25 @@ There are plenty of plugins that can help you put together a WordPress community
 Not only is it one of the most popular WordPress plugins around, but it also has fantastic documentation and is easy to set up.
 
 <div class="card">
-  <div class="card-body">
     <div class="card-header">
+      <div class="card-title">
+        <a href="https://buddypress.org/" target="_blank" rel="nofollow noreferrer">BuddyPress</a>
+      </div>
       <div class="card-img">
         <img src="{{ site.baseurl }}/buddypress.webp" alt="BuddyPress" />
       </div>
     </div>
-  </div>
-  <div class="card-footer">
-    - card footer
-  </div>
+    <div class="card-body">
+    Author(s): <a href="https://buddypress.org/" target="_blank" rel="nofollow norefferer">The BuddyPress Community</a>
+    Current Version: 7.3.0
+    Last Updated: April 14, 2021
+    Download Link: <a href="https://downloads.wordpress.org/plugin/buddypress.7.3.0.zip" target="_blank" rel="nofollow noreferrer">buddypress.7.3.0.zip</a>
+    </div>
+    <div class="card-footer">
+      | Ratings | Installs | Requires |
+        -------   --------   --------
+      | 84%     | 200,000+ | WP-4.9+  |
+    </div>
 </div>
 
 Once you’ve installed it, you’re ready to get down to business.      
