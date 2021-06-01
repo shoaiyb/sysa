@@ -49,7 +49,7 @@ Not only is it one of the most popular WordPress plugins around, but it also has
         <a href="https://buddypress.org/" target="_blank" rel="nofollow noreferrer">BuddyPress</a>
       </div>
       <div class="card-img">
-        <img src="{{ site.baseurl }}/buddypress.webp" alt="BuddyPress" />
+        <img src="{{ site.baseurl }}/buddypress-banner.webp" alt="BuddyPress" />
       </div>
     </div>
     <div class="card-body">
@@ -65,13 +65,13 @@ Not only is it one of the most popular WordPress plugins around, but it also has
         <table>
             <tr>
                 <th>Ratings</th>
-                <th>Installs</th>
-                <th>Requires</th>
+                <th> Installs</th>
+                <th> Requires</th>
             </tr>
             <tr>
                 <th>84%</th>
-                <th>200,000+</th>
-                <th>WP-4.9+</th>
+                <th> 200,000+</th>
+                <th> WP-4.9+</th>
             </tr>
         </table>
     </div>
@@ -86,7 +86,7 @@ After you install the plugin, a BuddyPress tab will appear under Settings in you
 In this tab, you’ll find several of BuddyPress’ main settings, including the option to enable users to upload profile and cover photos.      
 I recommend allowing both, since that will provide members with an incentive to customize their own pages:
 
-![enable members](/enable-photo.webp)       
+![enable members](assets/images/enable-photo.webp)       
 
 After dealing with those settings, scroll down and you’ll find two more options. One will enable activity stream comments on your regular blog posts – I recommend using this option to provide more opportunities for engagement.      
 You can also make sure new items will appear on the main activity stream without the need for users to reload the page:
