@@ -62,9 +62,11 @@ Not only is it one of the most popular WordPress plugins around, but it also has
     Download Link: <a href="https://downloads.wordpress.org/plugin/buddypress.7.3.0.zip" target="_blank" rel="nofollow noreferrer">buddypress.7.3.0.zip</a>
     </div>
     <div class="card-footer">
+
 | Ratings | Installs | Requires |
   -------   --------   --------
 | 84%     | 200,000+ | WP-4.9+  |
+  ---       --------   -------
     </div>
 </div>
 
