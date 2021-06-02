@@ -2,7 +2,7 @@
 layout: page
 title: Cookie Notice
 permalink: /cookie/
-published: true
+published: false
 ---
 
 
