@@ -2,12 +2,12 @@
 layout: page
 title: Cookie Notice
 permalink: /cookie/
-published: false
+published: true
 ---
 
 
 
-
+<!--
 <div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal">
   <div class="modal-dialog shadow" role="document">
     <div class="modal-content">
@@ -24,4 +24,16 @@ published: false
       </div>
     </div>
   </div>
+</div>
+-->
+<div class="alert modal">
+  <div class="modal-header">
+  <button type="button" class="close" arua-label="Close"> &times; </button>
+  </div>
+  <div class="alert-heading">
+    Cookie Consent
+  </div>
+  <div class="modal-body">
+  {{site.title}} use's cookie 🍪 for best performance
+  <a href="" class="alert-link">Privacy Policy</a>
 </div>
