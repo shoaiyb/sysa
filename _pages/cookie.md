@@ -26,14 +26,11 @@ published: true
   </div>
 </div>
 -->
-<div class="alert modal">
-  <div class="modal-header">
+<div class="alert">
   <button type="button" class="close" arua-label="Close"> &times; </button>
-  </div>
   <div class="alert-heading">
     Cookie Consent
   </div>
-  <div class="modal-body">
   {{site.title}} use's cookie 🍪 for best performance
   <a href="" class="alert-link">Privacy Policy</a>
 </div>
