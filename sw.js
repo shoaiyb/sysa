@@ -1,3 +1,6 @@
+---
+layout: null
+---
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js');
 
 if (workbox) {
@@ -34,7 +37,7 @@ if (workbox) {
   
   workbox.routing.registerRoute(
     // Cache image files
-    /.*\.(?:png|jpg|jpeg|svg|gif|ico)/,
+    /.*\.(?:png|jpg|jpeg|webp|svg|gif|ico)/,
     // Use the cache if it's available
     workbox.strategies.cacheFirst({
       // Use a custom cache name
