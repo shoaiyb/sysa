@@ -5,6 +5,7 @@ description: "I'm a blogger (blogspot) blog designer I use to design blogspot bl
 permalink: /design/blogger/
 comments: false
 toc: true
+published: false
 ---
 
 
