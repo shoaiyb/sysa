@@ -22,6 +22,14 @@
 	
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
+<script defer>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js');
+            });
+        }
+</script>
+
 </head>
 
 {% if jekyll.environment == 'production' %}
