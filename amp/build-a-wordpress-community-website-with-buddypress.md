@@ -1,5 +1,6 @@
 ---
 layout: amp
+permalink: /amp/build-a-wordpress-community-website-with-buddypress/
 ---
 <html lang="en" amp="">
 
