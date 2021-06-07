@@ -67,9 +67,23 @@ https://mynodejsapp.localtunnel.me
 
 Expose your local web server to the internet with a public URL.    
 
+**Features**:     
+- Webhook Integrations
+- Mobile Development
+
+
 **Pricing**:    
 - $2/month
 
+### Installation & Usage
+
+```brew
+$ brew install agrinman/tap/tunnelto
+```
+Or      
+```cargo
+$ cargo install tunnelto
+```
 
 ## LocalHost.run
 
