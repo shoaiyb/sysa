@@ -5,7 +5,7 @@ description: "I've wanted for a long time to create a simple way of blogging tha
 author: shoaiyb
 image: assets/images/simple-php-blog.webp
 imageshadow: true
-categories: [ PHP, Beginner, Guide, Develop ]
+categories: [ PHP, Develop, Beginner, Guide ]
 toc: true
 published: false
 ---
@@ -31,7 +31,7 @@ I know I'm probably forgetting about a million edge cases, but I want to keep it
 So, we'll roll with this for now and add features as they become necessary in the next version.       
 
 ## The posts
-Posts will be named in the following pattern: `the-post.md` and they will be stored in the posts/ folder.       
+Posts will be named in the following pattern: `the-post.md` and they will be stored in the `contents/` folder.       
 The first part is the date of the post (you can optionally include a time as well if you have more than one post for that day), followed by an underscore, and the title of the post.      
 The underscore is used by the system to separate the title from the date.       
 This convention also has the benefit that posts can easily be sorted by publication date.       
@@ -65,6 +65,17 @@ Here is our main PHP files:
 ```php
 <?php
 return array(
+// Blog Title
+'title' => 'Simple PHP Blog',
+
+// Blog Description
+'description' => 'Build A Simple PHP Blog',
+
+// Blog URL
+'url' => 'http://localhost:8080',
+
+// Blog Email
+'email' => 'mail@localhost:8080'
 
 );
 ?>
@@ -81,6 +92,7 @@ return array(
  */
 
 $config = require 'config.php';
+
 
 ?>
 ```
