@@ -50,6 +50,16 @@ plugins:
   - jekyll-redirect-from
     
 
+# Sitemap Exclude
+defaults:
+  -
+    scope:
+      path:            "amp/"
+    values:
+      sitemap:         false
+
+
+
 # Mentions
 jekyll-mentions:
   base_url: https://twitter.com
