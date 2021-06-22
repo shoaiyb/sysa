@@ -53,7 +53,7 @@ plugins:
 # Sitemap Exclude
 defaults:
   -
-  scope:
+   scope:
     path: "amp"
     values:
       sitemap: false
