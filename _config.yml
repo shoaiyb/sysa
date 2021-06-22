@@ -54,7 +54,7 @@ plugins:
 defaults:
   -
   scope:
-    path: "amp/*"
+    path: "amp"
     values:
       sitemap: false
 
