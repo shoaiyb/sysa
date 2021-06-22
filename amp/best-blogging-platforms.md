@@ -1,6 +1,7 @@
 ---
 layout: amp
 permalink: /amp/best-blogging-platforms/
+sitemap: false
 ---
 <html lang="en" amp="">
 <head>
