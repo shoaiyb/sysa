@@ -1,6 +1,7 @@
 ---
 layout: amp
 permalink: /amp/about/
+sitemap: false
 ---
 <html lang="en" amp="">
 <head>
