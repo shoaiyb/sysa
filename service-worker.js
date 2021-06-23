@@ -13,6 +13,7 @@ const IMAGE_CACHE = "images";
 const FONT_CACHE = "fonts";
 const CACHE = "pwabuilder-offline-page";
 const offlineFallbackPage = "index.html";
+const PRECACHE = "pwabuilder-precache";
 
 self.addEventListener("message", (event) => {
   if (event.data && event.data.type === "SKIP_WAITING") {
@@ -125,3 +126,16 @@ self.addEventListener('fetch', (event) => {
     })());
   }
 });
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
+});
+
+workbox.routing.registerRoute(
+  new RegExp('/*'),
+  new workbox.strategies.CacheFirst({
+    cacheName: PRECACHE
+  })
+);
