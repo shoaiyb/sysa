@@ -13,7 +13,10 @@ const IMAGE_CACHE = "images";
 const FONT_CACHE = "fonts";
 const CACHE = "pwabuilder-offline-page";
 const offlineFallbackPage = "index.html";
-const PRECACHE = "pwabuilder-precache";
+const PRE_CACHE = "pwabuilder-precache";
+const OFF_CACHE = "pwabuilder-offline";
+const SYNC_CACHE = "pwabuilder-offline";
+const QUEUE_NAME = "bgSyncQueue";
 
 self.addEventListener("message", (event) => {
   if (event.data && event.data.type === "SKIP_WAITING") {
@@ -136,6 +139,46 @@ self.addEventListener("message", (event) => {
 workbox.routing.registerRoute(
   new RegExp('/*'),
   new workbox.strategies.CacheFirst({
-    cacheName: PRECACHE
+    cacheName: PRE_CACHE
+  })
+);
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
+});
+
+workbox.loadModule('workbox-cacheable-response');
+workbox.loadModule('workbox-range-requests');
+
+workbox.routing.registerRoute(
+  /.*\.mp4/,
+  new workbox.strategies.CacheFirst({
+    cacheName: OFF_CACHE,
+    plugins: [
+      new workbox.cacheableResponse.CacheableResponsePlugin({statuses: [200]}),
+      new workbox.rangeRequests.RangeRequestsPlugin(),
+    ],
+  }),
+);
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
+});
+
+const bgSyncPlugin = new workbox.backgroundSync.Plugin(QUEUE_NAME, {
+  maxRetentionTime: 24 * 60 // Retry for max of 24 Hours (specified in minutes)
+});
+
+workbox.routing.registerRoute(
+  new RegExp('/*'),
+  new workbox.strategies.StaleWhileRevalidate({
+    cacheName: SYNC_CACHE,
+    plugins: [
+      bgSyncPlugin
+    ]
   })
 );
