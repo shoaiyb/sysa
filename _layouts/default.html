@@ -29,7 +29,7 @@ import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
 const el = document.createElement('pwa-update');
 document.body.appendChild(el);
 // if ("serviceWorker" in navigator) {
-// navigator.serviceWorker.register("/sw.js");
+navigator.serviceWorker.register("/service-worker.js");
 // }
 </script>
 
@@ -190,10 +190,6 @@ darkmode.showWidget();
 <script src="{{ site.baseurl }}/assets/js/instantclick.min.js" data-no-instant></script>
 <script data-no-instant>InstantClick.init();</script>
 {% endif %}
-
-<script>
-	navigator.serviceWorker.register("/service-worker.js");
-</script>
 
 </body>
 </html>
