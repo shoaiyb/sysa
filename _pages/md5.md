@@ -12,16 +12,16 @@ comments: false
 <form>
   <p>
     <label for="input">Input</label>
-    <textarea rows="6" id="input"></textarea>
+    <textarea class=" mb-3" rows="6" id="input"></textarea>
   </p>
   <p>
-    <button type="submit" id="calculate" onclick="result.value=md5(input.value);return false">
+    <button class="btn btn-dark" type="submit" id="calculate" onclick="result.value=md5(input.value);return false">
       Calculate
     </button>
-    <button type="reset" id="reset">Reset</button>
+    <button class="btn btn-dark" type="reset" id="reset">Reset</button>
   </p>
   <p>
     <label for="result">Result</label>
-    <input id="result" readonly />
+    <input class="" id="result" readonly />
   </p>
 </form>
