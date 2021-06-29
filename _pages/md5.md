@@ -12,7 +12,7 @@ comments: false
 <form>
   <textarea class="form-control mb-3" rows="8" id="input"></textarea>
   
-  <button class="btn btn-dark" type="submit" id="calculate" onclick="result.value=md5(input.value);return false">Calculate</button>
+  <input class="btn btn-dark" type="submit" id="calculate" onclick="result.value=md5(input.value);return false">Calculate</input>
   
   <!--button class="btn btn-dark" type="reset" id="reset">Reset</button-->
   
