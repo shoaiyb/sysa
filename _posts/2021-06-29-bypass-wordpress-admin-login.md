@@ -2,11 +2,10 @@
 layout: post
 title: "How To ByPass WordPress Admin Login"
 author: shoaiyb
-description: ""
+description: "Here is the solution to quickly log into your WordPress dashboard without knowing the username or the password."
 image: assets/images/bypass-wordpress.webp
 imageshadow: true
 categories: [ WordPress, Beginner, Guide ]
-
 ---
 
 
