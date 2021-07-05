@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Test
-comments: false
+title: Aff
 permalink: /test/
 ---
 
