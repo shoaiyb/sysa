@@ -3,8 +3,10 @@ layout: page
 title: Test
 permalink: /test/
 ---
+<!--
 {% assign hours= site.time | date: "%H" | plus:100 %}
 {% assign random = page.title.size | plus: hours | modulo: site.data.ads.size %}
+-->
 <a title="Affiliates" href="{{site.data.affiliates[random].url}}" target="_blank" rel="nofollow">
   <div class="ad-div">
     <p class="ad-p">
