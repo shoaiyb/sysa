@@ -1,11 +1,14 @@
 ---
 layout: page
-title: "Bluehost Referral"
-description: ""
+title: "Bluehost"
+description: "Bluehost Affiliate"
 permalink: /go/bluehost/
-redirect_to: /
+comments: false
+redirect_to: https://www.bluehost.com/track/shoaiyb/
 ---
-  
-  
-  
-  redirecting to bluehost
+
+<p>
+  <a href="https://www.bluehost.com/track/shoaiyb/">
+    Click here if not redirected
+  </a>
+</p>
