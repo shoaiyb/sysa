@@ -75,7 +75,7 @@ Pageviews are how many individual pages each visitor to your blog reads. Obvious
 
 By interlinking your articles well, and that means placing links between your own articles in a logical manner, you create a nice pathway for a reader to navigate through your blog.
 
-## Cover The Basics
+## Conclusion
 Some of the topics I covered may be too technical for beginner bloggers. If there is one piece of advice you should take away from this newsletter and implement on your blog it is to link back to your previous blog posts regularly.
 
 Use logical anchor text links and don’t worry too much about keywords. If you label your links well for humans you generally label well for search engines too. It’s easy to get caught up with keywords so don’t spend too much energy worrying about how you link to your articles, just do it.
