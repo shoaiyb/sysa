@@ -5,7 +5,7 @@ description: "Your blog should be like a spider’s web, with each article linki
 author: "shoaiyb"
 image: assets/images/interlink.webp
 imageshadow: true
-
+toc: true
 ---
 Your blog should be like a spider’s web, with each article linking to other articles in your blog.
 
