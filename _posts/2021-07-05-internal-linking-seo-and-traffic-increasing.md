@@ -10,8 +10,6 @@ toc: true
 Your blog should be like a spider’s web, with each article linking to other articles in your blog.
 
 This technique can deliver some nice traffic benefits. Here’s how to do it...
-
-———————
 <!--
 Last issue of this newsletter I covered trackbacks and how to use them as a blog traffic building tool. This newsletter we’re going to start with the trackback’s distant cousin, the pingback and then move to an interesting technique for building traffic – interlinking.
 -->
