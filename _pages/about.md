@@ -12,7 +12,7 @@ redirect_from:
   - /shoaiybsysa/
   - /shoaiyb sysa
   - /shoaiyb sysa/
-description: "Get to know more about me shoaiyb sysa."
+description: "Get to know more about shoaiyb sysa."
 permalink: /about/
 comments: false
 toc: true
@@ -36,10 +36,18 @@ As I said I'm a developer now, I'm always playing with some code editors,
 And sometimes searching something very important as a developer.     
 
 
-## What I've Archived?
+## What I've Developed?
 
-<!--### sysa.css
-sysa.css is an open source and a small free set of responsive css framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.     
--->
+### sysa.css
+SYSA.CSS is free and open source responsive modern CSS framework written by me.        
+Check out it's [github repo](https://github.com/shoaiyb/css) and the [documentation](https://css.sysa.ml/) of course.       
+And hey 👋, It's available on **[NPM](https://npmjs.com/package/sysacss)** 🎉.      
+
+As of now there is only the CSS version, But the SASS version is on it's way.       
+So stick to the [News](https://css.sysa.ml/news/) to be informed when the SASS version is released.       
+
+
+<!--
 Actually I've never done something unique, something very important for others in my life as a blogger, youtuber and a developer,   
 But I'm always looking for what newbies are struggling with and find out the solutions.   
+-->
