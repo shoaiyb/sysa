@@ -237,7 +237,7 @@ Is it true?
 
 Yes! There are actually [ways to get a free domain name for your website](/get-free-domain/).        
 
-First, you can get a free domain name for a web hosting provider such as Bluehost.        
+First, you can get a free domain name for a web hosting provider such as [Bluehost](https://www.bluehost.com/track/shoaiyb/).        
 
 They offer every new user a 1-year free domain with any of their hosting plans.        
 You can either register a brand new domain name with them or transfer a domain name, registered with another company.        
