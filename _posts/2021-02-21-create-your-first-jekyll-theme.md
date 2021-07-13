@@ -56,7 +56,6 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
     gem 'jekyll-seo-tag'
-    gem 'bootstrap', '~> 4.4.1'
 end
 ```
 
@@ -86,7 +85,7 @@ ___________________________________
 ```html
 ---
 layout: default
-title: "Home"
+title: Home
 ---
 <!-- Posts View -->
 <div class="post-container">
