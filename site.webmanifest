@@ -55,17 +55,5 @@
       "description": "Privacy policy for shoaiyb sysa",
       "url": "/policy/",
      }
-  ],
-  "screenshots": [
-    {
-      "src": "/assets/images/sysa.ml.screenshot.png",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "/assets/images/sysa.ml.screenshot.jpg",
-      "type": "image/jpg",
-      "sizes": "540x720"
-    }
   ]
 }
