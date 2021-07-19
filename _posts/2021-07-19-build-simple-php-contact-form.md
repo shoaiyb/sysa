@@ -3,8 +3,9 @@ layout: post
 title: "Build A Simple PHP Contact Form With Validation"
 description: ""
 author: shoaiyb
-categories: [ PHP, Develope ]
+categories: [ PHP, Develop ]
 toc: true
+published: false
 ---
 
 
@@ -56,15 +57,22 @@ To create a form we can use HTML, below is a basic form:
 <!DICTYPE html>
 <html>
 <head>
+
 </head>
 <body>
-<form class="contact" method="post" action="contact.php">
-<input type="email" name="email" placeholder="Your Email Address" required>
-<input type="text" name="name" placeholder="Your Name" required>
-<input type="text" name="subject" placeholder="Subject" required>
-<textarea name="msg" placeholder="What would you like to contact us about?" required></textarea>
-<input type="submit">
-</form>
+
+  <form class="contact" method="post" action="contact.php">
+    <input type="email" name="email" placeholder="Your Email Address" required>
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="text" name="subject" placeholder="Subject" required>
+    <textarea name="msg" placeholder="What would you like to contact us about?" required></textarea>
+    <input type="submit">
+  </form>
+  
+  <?php if ($response): ?>
+  <textarea name="response" required readonly="readonly"><?php echo $response; ?></textarea>
+  <?php endif; ?>
+  
 </body>
 </html>
 ```
