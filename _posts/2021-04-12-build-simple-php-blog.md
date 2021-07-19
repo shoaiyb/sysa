@@ -16,7 +16,7 @@ I've wanted for a long time to create a simple way of blogging that eschews basi
 Many "flat file" Content Management Systems exist already, as well as "static site generators", but none of these that I looked at were simple enough for my liking.
 
 I don't want to have to install Ruby, or Python, or Composer, or whatever else on a server to run a blog.       
-On the other hand, installing [WordPress](/) or one of the other popular PHP-based CMSes for this use case is like hammering in a nail with a sledgehammer.
+On the other hand, installing [WordPress](/why-wordpress/) or one of the other popular PHP-based CMSes for this use case is like hammering in a nail with a sledgehammer.
 
 Many people dislike PHP, and while it has its warts, I like it.       
 I like using (vanilla) PHP simply because it is nearly ubiquitous.      
@@ -94,11 +94,12 @@ return array(
 $config = require 'config.php';
 
 
+
 ?>
 ```
 
 ## The htaccess
-```apache
+```apacheconf
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
